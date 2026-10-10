@@ -1,0 +1,975 @@
+Journey_ID,Service_Date,Line,Train_Type,Source_Station,Destination_Station,Distance_KM,Scheduled_Departure,Actual_Departure,Delay_Minutes,Passenger_Count_Est,Peak_Period,Weather,Service_Status
+J00808,2026-09-14,Western,Slow,Borivali,Virar,19.1,14:28,14:30,2,1369.0,Non-Peak,Clear,On-Time/Minor Delay
+J00492,2026-07-20,Harbour,Slow,Bandra,Panvel,37.5,07:12,07:13,1,1507.0,Peak,Clear,On-Time/Minor Delay
+J00828,2026-09-10,Western,Slow,Churchgate,Virar,61.1,17:28,17:29,1,1722.0,Peak,Clear,On-Time/Minor Delay
+J00097,2026-08-26,Western,Slow,Andheri,Borivali,12.4,06:16,06:19,3,1125.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00050,2026-09-30,Harbour,Fast,Andheri,Panvel,33.1,08:32,08:35,3,2392.0,Peak,Heavy Rain,On-Time/Minor Delay
+J00931,2026-07-08,Central,Slow,Dadar,Thane,25.9,09:46,09:46,0,2391.0,Peak,Clear,On-Time/Minor Delay
+J00041,2026-08-18,Western,Fast,Churchgate,Virar,61.6,13:00,13:00,0,1562.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00034,2026-08-05,Central,Fast,Kurla,Kalyan,40.1,06:00,06:05,5,363.0,Non-Peak,Light Rain,Delayed
+J00417,2026-09-26,Central,Fast,Kurla,Kalyan,40.1,18:10,18:16,6,2113.0,Peak,Clear,Delayed
+J00373,2026-09-02,Central,Fast,Thane,Kalyan,20.7,08:14,08:19,5,2234.0,Peak,Clear,Delayed
+J00733,2026-09-24,Central,Fast,CSMT,Thane,32.5,17:54,17:54,0,1997.0,Peak,Clear,On-Time/Minor Delay
+J00076,2026-08-05,Western,Slow,Borivali,Virar,19.3,17:58,17:58,0,1779.0,Peak,Clear,On-Time/Minor Delay
+J00534,2026-07-24,Central,Slow,CSMT,Thane,33.1,18:26,18:27,1,2289.0,Peak,Clear,On-Time/Minor Delay
+J00125,2026-07-19,Western,Slow,Andheri,Borivali,12.3,12:48,12:50,2,882.0,Non-Peak,Clear,On-Time/Minor Delay
+J00949,2026-07-15,Western,Slow,Dadar,Borivali,23.0,22:48,22:50,2,1521.0,Non-Peak,Clear,On-Time/Minor Delay
+J00187,2026-09-27,Western,Slow,Churchgate,Virar,61.5,13:00,13:00,0,658.0,Non-Peak,Clear,On-Time/Minor Delay
+J00412,2026-08-11,Harbour,Slow,Vashi,Panvel,25.2,14:34,14:41,7,660.0,Non-Peak,Light Rain,Delayed
+J00328,2026-09-02,Harbour,Slow,Bandra,Panvel,36.1,10:44,10:49,5,742.0,Non-Peak,Light Rain,Delayed
+J00531,2026-08-28,Western,Fast,Borivali,Virar,19.6,16:26,16:27,1,1350.0,Non-Peak,Clear,On-Time/Minor Delay
+J00587,2026-09-23,Western,Fast,Borivali,Virar,19.2,16:00,16:00,0,1966.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00453,2026-07-30,Western,Slow,Bandra,Virar,49.9,12:22,12:28,6,1143.0,Non-Peak,Light Rain,Delayed
+J00930,2026-08-29,Western,Fast,Borivali,Virar,18.6,09:38,09:41,3,2724.0,peak,Light Rain,On-Time/Minor Delay
+J00207,2026-08-03,Western,Slow,Dadar,Borivali,22.7,20:28,20:37,9,2324.0,Peak,Heavy Rain,Delayed
+J00419,2026-07-23,Harbour,Slow,Bandra,Panvel,36.6,14:36,14:42,6,1866.0,Non-Peak,Clear,Delayed
+J00801,2026-08-16,Central,Slow,CSMT,Dombivli,49.5,18:40,18:42,2,2337.0,Peak,Cloudy,On-Time/Minor Delay
+J00847,2026-07-15,Harbour,Fast,Andheri,Panvel,32.0,22:38,22:38,0,1355.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00158,2026-09-06,Western,Fast,Dadar,Borivali,22.6,17:16,17:20,4,2499.0,Peak,Clear,On-Time/Minor Delay
+J00186,2026-08-12,Central line,Fast,Vashi,Panvel,25.6,07:44,07:49,5,1111.0,Peak,Heavy Rain,Delayed
+J00316,2026-07-03,Central,Slow,Dadar,Thane,24.4,09:14,09:18,4,2297.0,Peak,Clear,On-Time/Minor Delay
+J00203,2026-08-03,Western,Slow,Churchgate,Virar,60.4,19:52,19:52,0,3216.0,Peak,Clear,On-Time/Minor Delay
+J00279,2026-09-22,Harbour,Slow,,Panvel,25.8,12:36,12:42,6,250.0,Non-Peak,Heavy Rain,Delayed
+J00700,2026-07-13,Central,Fast,Kurla,Kalyan,38.5,17:22,17:25,3,1909.0,Peak,Clear,On-Time/Minor Delay
+J00585,2026-10-08,Central,Fast,CSMT,Kalyan,52.8,17:48,17:53,5,2033.0,Peak,Light Rain,Delayed
+J00775,2026-09-18,Western,Fast,Churchgate,Virar,60.0,21:46,21:47,1,1740.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00413,2026-10-04,Harbour,Slow,Vashi,Panvel,24.2,19:12,19:15,3,2150.0,Peak,Clear,On-Time/Minor Delay
+J00450,2026-07-19,Harbour,Fast,Vashi,Panvel,24.1,18:46,18:52,6,2404.0,Peak,Clear,Delayed
+J00660,2026-07-07,Central,Slow,CSMT,Dombivli,46.3,16:38,16:39,1,403.0,Non-Peak,Clear,On-Time/Minor Delay
+J00223,2026-10-07,Western,Fast,Dadar,Borivali,21.7,18:38,18:41,3,1416.0,Peak,Light Rain,On-Time/Minor Delay
+J00735,2026-07-12,Western,Fast,Andheri,Borivali,12.8,10:00,10:01,1,1866.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00728,2026-09-03,Western,Fast,Bandra,Virar,48.8,09:10,09:14,4,1884.0,Peak,Light Rain,On-Time/Minor Delay
+J00370,2026-10-04,Western,Slow,Dadar,Borivali,22.0,19:00,19:03,3,2388.0,Peak,Clear,On-Time/Minor Delay
+J00521,2026-07-07,Western,Slow,Borivali,Virar,19.5,09:20,09:21,1,2368.0,Peak,Clear,On-Time/Minor Delay
+J00819,2026-07-25,Central,Slow,CSMT,Kalyan,52.3,21:54,21:57,3,1797.0,Non-Peak,Clear,On-Time/Minor Delay
+J00572,2026-09-07,Central,Fast,Thane,Kalyan,21.4,17:40,17:44,4,2721.0,Peak,Clear,On-Time/Minor Delay
+J00428,2026-07-27,Central,Fast,CSMT,Thane,32.1,15:06,15:11,5,663.0,Non-Peak,Heavy Rain,Delayed
+J00318,2026-08-01,Harbour,Fast,CSMT,Panvel,48.3,23:46,23:48,2,2221.0,Non-Peak,Clear,On-Time/Minor Delay
+J00739,2026-08-13,Central,Fast,Kurla,Kalyan,40.1,21:46,21:48,2,1519.0,Non-Peak,Clear,On-Time/Minor Delay
+J00093,2026-08-27,Central,Slow,CSMT,Dombivli,48.4,20:44,20:46,2,1780.0,Peak,Clear,On-Time/Minor Delay
+J00272,2026-08-07,Central,Fast,CSMT,Kalyan,55.2,19:00,19:03,3,2635.0,Peak,Cloudy,On-Time/Minor Delay
+J00610,2026-07-28,Central line,Fast,CSMT,Dombivli,46.3,09:16,09:17,1,1863.0,Peak,Cloudy,On-Time/Minor Delay
+J00527,2026-09-22,Western,Slow,Andheri,Borivali,12.2,06:22,06:22,0,1220.0,Non-Peak,Clear,On-Time/Minor Delay
+J00032,2026-09-22,Central,Slow,CSMT,Thane,32.7,19:56,20:02,6,1418.0,Peak,Heavy Rain,Delayed
+J00917,2026-08-03,Central,Fast,Thane,Kalyan,20.3,18:12,18:15,3,2153.0,Peak,Cloudy,On-Time/Minor Delay
+J00144,2026-07-28,Western,Slow,Churchgate,Virar,57.8,17:34,17:35,1,1774.0,Peak,Clear,On-Time/Minor Delay
+J00928,2026-09-10,Western,Slow,Churchgate,Borivali,33.0,10:28,10:29,1,1543.0,Non-Peak,Clear,On-Time/Minor Delay
+J00458,2026-07-10,Harbour,Slow,Vashi,Panvel,24.8,18:18,18:20,2,1853.0,Peak,Cloudy,On-Time/Minor Delay
+J00059,2026-10-07,Central,Fast,CSMT,Thane,32.5,17:28,17:30,2,1430.0,Peak,Clear,On-Time/Minor Delay
+J00693,2026-07-09,Harbour,Slow,CSMT,Panvel,50.4,16:56,16:58,2,1614.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00491,2026-09-01,Western,Slow,Dadar,Borivali,22.0,08:18,08:18,0,2870.0,Peak,Clear,On-Time/Minor Delay
+J00033,2026-10-07,Western,Slow,Bandra,Virar,49.2,14:30,14:31,1,1768.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00866,2026-09-12,Harbour,Slow,CSMT,Panvel,48.2,20:22,20:26,4,1413.0,Peak,Clear,On-Time/Minor Delay
+J00312,2026-08-01,Central,Slow,Dadar,Thane,26.1,23:48,23:49,1,1291.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00573,2026-10-01,Harbour,Slow,Bandra,Panvel,36.0,20:08,invalid,3,1487.0,Peak,Cloudy,On-Time/Minor Delay
+J00562,2026-07-27,Harbour,Fast,CSMT,Panvel,50.2,09:24,09:28,4,,Peak,Clear,On-Time/Minor Delay
+J00020,2026-09-19,Harbour,Fast,CSMT,Vashi,24.4,19:50,19:51,1,2025.0,Peak,Clear,On-Time/Minor Delay
+J00561,2026-09-04,Central,Fast,CSMT,Dombivli,46.3,19:12,19:13,1,2571.0,Peak,Cloudy,On-Time/Minor Delay
+J00703,2026-07-19,Harbour,Slow,Vashi,Panvel,25.6,14:50,,2,1007.0,Non-Peak,Clear,On-Time/Minor Delay
+J00482,2026-07-09,harbour,Fast,Churchgate,Borivali,34.8,16:42,16:43,1,1304.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00846,2026-07-03,Western,Fast,Andheri,Borivali,12.4,09:58,10:03,5,1934.0,Peak,Heavy Rain,Delayed
+J00947,2026-08-09,Central,Slow,Kurla,Kalyan,40.2,09:40,09:45,5,2739.0,Peak,Heavy Rain,Delayed
+J00139,2026-07-17,Central,Slow,Thane,Kalyan,21.1,21:52,21:54,2,2976.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00862,2026-08-28,Central,Slow,CSMT,Dombivli,48.2,10:22,10:26,4,1010.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00590,2026-07-03,Western,Fast,Borivali,Virar,19.4,19:44,19:44,0,2154.0,Peak,Cloudy,On-Time/Minor Delay
+J00149,2026-10-02,Western,Fast,Andheri,Borivali,12.6,12:26,12:26,0,1003.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00814,2026-07-10,Central,Slow,CSMT,Kalyan,51.9,17:46,17:49,3,2213.0,Peak,Light Rain,On-Time/Minor Delay
+J00469,2026-08-19,Western,Slow,Dadar,Borivali,23.0,20:34,20:37,3,2913.0,Peak,Cloudy,On-Time/Minor Delay
+J00086,2026-10-08,Harbour,Slow,Vashi,Panvel,24.9,12:40,12:44,4,926.0,Non-Peak,Clear,On-Time/Minor Delay
+J00088,2026-07-15,Central,Slow,Dadar,Thane,26.1,07:58,08:03,5,1171.0,Peak,Clear,Delayed
+J00105,2026-09-21,Western,Fast,Borivali,Virar,19.4,09:44,09:46,2,2390.0,Peak,Clear,On-Time/Minor Delay
+J00706,2026-09-24,Harbour,Slow,Vashi,Panvel,24.2,10:50,10:53,3,1818.0,Non-Peak,Clear,On-Time/Minor Delay
+J00637,2026-08-05,Central,Fast,CSMT,Kalyan,55.8,10:06,10:10,4,557.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00822,2026-09-07,Central,Slow,CSMT,Kalyan,55.4,08:32,08:34,2,1802.0,Peak,heavy rain,On-Time/Minor Delay
+J00315,2026-07-15,Harbour,Slow,Vashi,Panvel,25.2,18:20,18:25,5,1854.0,Peak,Cloudy,Delayed
+J00347,2026-07-03,Central,Fast,CSMT,Thane,32.3,18:28,18:30,2,1732.0,Peak,Light Rain,On-Time/Minor Delay
+J00365,2026-08-05,Central,Slow,Thane,Kalyan,21.2,16:26,16:30,4,1881.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00654,2026-08-14,Western,Slow,Dadar,Borivali,21.7,18:22,18:26,4,2058.0,Peak,Clear,On-Time/Minor Delay
+J00618,2026-07-31,Western,Slow,Churchgate,Virar,58.9,13:36,13:38,2,628.0,Non-Peak,Clear,On-Time/Minor Delay
+J00449,2026-08-17,Western,Slow,Churchgate,Virar,59.7,17:56,17:56,0,2464.0,Peak,Cloudy,On-Time/Minor Delay
+J00921,2026-08-28,Western,Slow,Borivali,Virar,19.3,20:08,20:11,3,2453.0,peak,Clear,On-Time/Minor Delay
+J00663,2026-09-04,Western,Slow,Bandra,Virar,50.1,06:04,06:10,6,1458.0,Non-Peak,Light Rain,Delayed
+J00889,2026-07-14,Harbour,Slow,CSMT,Panvel,48.0,11:40,11:42,2,2068.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00842,2026-10-09,Western,Fast,Bandra,Virar,47.9,19:54,,6,2130.0,Peak,Light Rain,Delayed
+J00075,2026-09-12,Western,Slow,Churchgate,Borivali,35.0,08:54,08:55,1,2469.0,Peak,Clear,On-Time/Minor Delay
+J00003,2026-09-29,Western,Slow,Churchgate,Borivali,33.6,13:32,13:33,1,268.0,Non-Peak,Clear,On-Time/Minor Delay
+J00712,2026-10-04,Central,Slow,CSMT,Dombivli,49.6,08:16,08:17,1,2869.0,Peak,Clear,On-Time/Minor Delay
+J00057,2026-07-27,Western,Slow,Borivali,Virar,19.4,21:32,21:33,42,1400.0,Non-Peak,Clear,On-Time/Minor Delay
+J00548,2026-08-10,Central,Slow,Dadar,Thane,25.5,12:40,12:41,1,702.0,Non-Peak,Clear,On-Time/Minor Delay
+J00541,2026-07-26,Central,Fast,CSMT,Dombivli,48.8,17:38,17:39,1,2376.0,Peak,Clear,On-Time/Minor Delay
+J00074,2026-07-28,Western,Slow,Churchgate,Virar,59.9,21:50,21:53,999,1169.0,Non-Peak,Clear,On-Time/Minor Delay
+J00440,2026-09-02,Central,Slow,Dadar,Thane,26.2,19:56,19:57,1,2245.0,Peak,Cloudy,On-Time/Minor Delay
+J00306,2026-07-25,Central,Fast,CSMT,Thane,32.3,10:12,10:12,0,2276.0,Non-Peak,Clear,On-Time/Minor Delay
+J00714,2026-09-19,Western,Slow,Churchgate,Virar,61.9,19:18,19:23,5,3050.0,Peak,Heavy Rain,Delayed
+J00623,2026-09-15,Harbour,Slow,Andheri,Panvel,31.4,22:48,22:51,3,1610.0,Non-Peak,Clear,On-Time/Minor Delay
+J00248,2026-08-06,Western,Slow,Churchgate,Borivali,35.0,09:40,09:43,3,2640.0,Peak,Clear,On-Time/Minor Delay
+J00812,2026-07-13,Western,Slow,Borivali,Virar,19.8,19:28,19:32,4,2032.0,Peak,Light Rain,On-Time/Minor Delay
+J00875,2026-09-07,Central,Fast,CSMT,Dombivli,47.2,17:46,17:47,1,1839.0,Peak,Clear,On-Time/Minor Delay
+J00183,2026-09-09,Western,FAST,Bandra,Virar,50.0,10:12,10:16,4,1728.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00699,2026-08-14,Western,Fast,Bandra,Virar,48.9,17:38,17:38,0,1983.0,Peak,Clear,On-Time/Minor Delay
+J00742,2026-08-26,Central,Slow,CSMT,Dombivli,48.8,22:52,22:56,4,1643.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00859,2026-07-05,Western,Fast,Bandra,Virar,50.1,13:16,13:16,0,1603.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00179,2026-08-25,Western,Fast,Dadar,Borivali,22.1,12:08,12:10,2,1313.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00652,2026-08-03,Western,Slow,Churchgate,Virar,61.8,09:32,09:34,2,1680.0,Peak,Clear,On-Time/Minor Delay
+J00665,2026-08-17,Western,Slow,Dadar,Borivali,21.6,17:06,17:09,3,1785.0,Peak,Light Rain,On-Time/Minor Delay
+J00394,2026-07-27,Western,Slow,Dadar,Borivali,22.9,18:24,18:26,2,2018.0,Peak,Clear,On-Time/Minor Delay
+J00792,2026-09-27,Western,Fast,Churchgate,Borivali,33.1,19:16,19:18,2,2102.0,Peak,Clear,On-Time/Minor Delay
+J00081,2026-07-09,Central,Fast,CSMT,Dombivli,47.1,18:12,18:13,1,3246.0,Peak,Cloudy,On-Time/Minor Delay
+J00811,2026-07-21,Central,Slow,CSMT,Thane,34.1,18:32,18:36,4,1517.0,Peak,Clear,On-Time/Minor Delay
+J00751,2026-07-10,Harbour,Slow,CSMT,Vashi,24.0,17:50,17:56,6,2830.0,Peak,Clear,Delayed
+J00503,2026-08-10,Western,Slow,Andheri,Borivali,12.7,19:02,19:06,4,1675.0,Peak,Clear,On-Time/Minor Delay
+J00595,2026-09-26,Harbour,Slow,Vashi,Panvel,24.1,06:14,06:17,3,877.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00122,2026-09-18,Central,Slow,Thane,Kalyan,21.2,17:16,17:24,8,1198.0,Peak,Clear,Delayed
+J00500,2026-08-21,Western,Fast,Churchgate,Virar,61.0,10:54,10:57,3,899.0,peak,Cloudy,On-Time/Minor Delay
+J00753,2026-08-25,WESTERN ,Slow,Kurla,Kalyan,40.5,22:54,22:58,4,1355.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00433,2026-09-24,Western,Fast,Andheri,Borivali,12.0,20:58,21:00,2,1953.0,Peak,Cloudy,On-Time/Minor Delay
+J00727,2026-09-21,Western,Fast,Andheri,Borivali,12.4,23:52,23:54,2,1165.0,Non-Peak,Clear,On-Time/Minor Delay
+J00070,2026-08-24,Western,Fast,Churchgate,Borivali,35.2,07:42,07:45,3,1424.0,Peak,Clear,On-Time/Minor Delay
+J00468,2026-07-07,Central,Slow,CSMT,Kalyan,54.5,10:54,10:55,1,1434.0,Non-Peak,Clear,On-Time/Minor Delay
+J00672,2026-07-04,Harbour,Slow,Bandra,Panvel,36.8,07:26,07:32,6,2433.0,Peak,Clear,Delayed
+J00275,2026-07-04,Western,Slow,Dadar,Borivali,21.7,18:04,18:08,4,,Peak,Clear,On-Time/Minor Delay
+J00740,2026-10-09,Western,Slow,Churchgate,Borivali,33.4,07:34,07:35,1,3236.0,Peak,Cloudy,On-Time/Minor Delay
+J00527,2026-09-22,Western,Slow,Andheri,Borivali,12.2,06:22,06:22,0,1220.0,Non-Peak,Clear,On-Time/Minor Delay
+J00681,2026-08-15,Western,Fast,Churchgate,Virar,58.9,10:12,10:14,2,1156.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00864,2026-09-29,Central,Fast,CSMT,Dombivli,49.8,23:42,23:46,4,1473.0,Non-Peak,Clear,On-Time/Minor Delay
+J00406,2026-08-14,Central,Fast,Thane,Kalyan,20.9,22:44,22:46,2,392.0,Non-Peak,Clear,On-Time/Minor Delay
+J00692,2026-07-30,Central,Slow,Dadar,Thane,25.3,21:50,21:52,2,1936.0,Non-Peak,Clear,On-Time/Minor Delay
+J00027,2026-09-28,Central,Slow,Kurla,Kalyan,38.2,23:32,23:34,2,1389.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00214,2026-07-01,Western,Fast,Dadar,Borivali,21.6,17:26,17:28,2,2957.0,Peak,Cloudy,On-Time/Minor Delay
+J00688,2026-07-29,Western,Fast,Churchgate,Virar,60.9,09:14,09:18,4,2308.0,Peak,Cloudy,On-Time/Minor Delay
+J00102,2026-09-15,Western,Slow,Bandra,Virar,48.5,16:24,16:27,3,1736.0,Non-Peak,Clear,On-Time/Minor Delay
+J00809,2026-08-26,Harbour,Slow,CSMT,Panvel,47.1,21:14,21:16,2,1298.0,Non-Peak,Clear,On-Time/Minor Delay
+J00784,2026-08-27,Western,Fast,Dadar,Borivali,21.6,07:18,07:20,2,1944.0,Peak,Clear,On-Time/Minor Delay
+J00855,2026-09-23,Western,Slow,Bandra,Virar,47.9,12:54,12:55,1,1087.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00201,2026-09-28,Western,Slow,Churchgate,Virar,59.8,08:52,08:55,3,2297.0,Peak,Light Rain,On-Time/Minor Delay
+J00184,2026-08-10,Central,Slow,CSMT,Dombivli,46.9,08:18,08:22,4,1926.0,Peak,Clear,On-Time/Minor Delay
+J00013,2026-09-16,Western,Slow,Dadar,Borivali,21.3,08:50,08:54,4,2088.0,Peak,Light Rain,On-Time/Minor Delay
+J00540,2026-09-05,Western,Slow,Borivali,Virar,18.5,09:18,09:20,2,1622.0,Peak,Cloudy,On-Time/Minor Delay
+J00473,2026-07-13,Western,Fast,Andheri,Borivali,12.0,19:18,19:21,3,2023.0,Peak,Cloudy,On-Time/Minor Delay
+J00606,2026-08-01,Western,Slow,Bandra,Virar,48.2,21:22,21:25,3,266.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00253,2026-09-06,Central,Slow,CSMT,Kalyan,53.3,17:56,17:56,0,2568.0,Peak,Cloudy,On-Time/Minor Delay
+J00737,2026-09-11,Western,Slow,Bandra,Virar,49.7,13:40,13:40,0,2253.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00077,2026-08-28,Western,Slow,Andheri,Borivali,12.9,18:20,18:21,1,2301.0,Peak,Clear,On-Time/Minor Delay
+J00743,2026-10-07,Central,Fast,Kurla,Kalyan,39.1,16:04,16:04,0,401.0,Non-Peak,Clear,On-Time/Minor Delay
+J00800,2026-07-14,Western,Fast,Dadar,Borivali,22.8,16:50,16:50,0,632.0,Non-Peak,Clear,On-Time/Minor Delay
+J00021,2026-07-10,Central,Fast,CSMT,Dombivli,48.3,12:58,12:59,1,1231.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00526,2026-07-26,Central,Fast,CSMT,Dombivli,48.9,18:54,18:56,2,1483.0,Peak,Cloudy,On-Time/Minor Delay
+J00671,2026-10-05,harbour,Slow,CSMT,Panvel,50.6,19:46,19:52,6,2145.0,Peak,Rain,Delayed
+J00746,2026-10-08,Western,Slow,Andheri,Borivali,12.6,07:18,07:21,3,1891.0,Peak,Cloudy,On-Time/Minor Delay
+J00791,2026-07-31,Western,Fast,Andheri,Borivali,12.1,20:04,20:07,3,2238.0,Peak,Clear,On-Time/Minor Delay
+J00143,2026-09-07,Western,Slow,Andheri,Borivali,12.6,12:02,12:06,4,774.0,Non-Peak,Clear,On-Time/Minor Delay
+J00899,2026-09-18,Central,Slow,CSMT,Thane,34.0,19:34,19:38,4,1189.0,Peak,Cloudy,On-Time/Minor Delay
+J00274,2026-07-23,Central,Fast,CSMT,Dombivli,47.1,17:44,17:45,1,1900.0,Peak,Cloudy,On-Time/Minor Delay
+J00664,,Western,Slow,Dadar,Borivali,21.2,20:40,20:43,3,2738.0,Peak,Clear,On-Time/Minor Delay
+J00755,2026-08-15,Western,Slow,Churchgate,Borivali,35.3,13:26,13:28,2,1867.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00543,2026-07-21,Central line,Fast,Bandra,Virar,46.7,08:30,08:36,6,2225.0,Peak,Light Rain,Delayed
+J00924,2026-07-24,Western,Fast,Bandra,Virar,49.9,08:50,08:51,1,1683.0,Peak,Cloudy,On-Time/Minor Delay
+J00407,2026-09-14,Central,Fast,Dadar,Thane,24.7,13:50,13:50,0,2043.0,Non-Peak,Clear,On-Time/Minor Delay
+J00546,2026-08-14,Harbour,Fast,CSMT,Vashi,24.2,21:26,21:26,0,1350.0,Non-Peak,Clear,On-Time/Minor Delay
+J00321,2026-07-27,Central,Slow,Thane,Kalyan,21.2,18:04,18:08,4,1688.0,Peak,Cloudy,On-Time/Minor Delay
+J00502,2026-07-25,Western,Slow,Andheri,Borivali,12.9,22:36,22:39,3,1394.0,Non-Peak,Clear,On-Time/Minor Delay
+J00661,2026-08-12,Western,Slow,Churchgate,Borivali,33.8,11:58,12:01,3,1879.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00451,2026-07-14,Western,Slow,Borivali,Virar,19.5,07:30,07:33,3,1921.0,Peak,Light Rain,On-Time/Minor Delay
+J00645,2026-07-04,Central,Fast,CSMT,Thane,32.5,09:06,09:08,2,2053.0,Peak,,On-Time/Minor Delay
+J00344,2026-08-28,Central,Slow,CSMT,Thane,34.1,11:52,11:55,3,2062.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00730,2026-08-21,Harbour,Fast,Andheri,Panvel,32.6,20:10,20:11,1,2681.0,Peak,Cloudy,On-Time/Minor Delay
+J00363,2026-09-10,Western,Slow,Churchgate,Borivali,33.0,07:50,07:50,0,2634.0,Peak,Clear,On-Time/Minor Delay
+J00918,2026-08-09,Western,Fast,Bandra,Virar,48.2,19:06,19:11,5,1838.0,Peak,Cloudy,Delayed
+J00261,2026-09-05,Central,Fast,CSMT,Dombivli,46.3,06:22,06:23,1,1081.0,Non-Peak,,On-Time/Minor Delay
+J00010,2026-09-06,Western,Slow,Bandra,Virar,48.6,07:32,07:34,2,1286.0,Peak,Light Rain,On-Time/Minor Delay
+J00596,2026-08-08,Central,Slow,CSMT,Kalyan,55.4,21:12,21:15,3,1013.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00038,2026-09-05,Central,Slow,Thane,Kalyan,20.7,16:00,16:06,6,1909.0,Non-Peak,Clear,Delayed
+J00271,2026-07-17,Western,Slow,Bandra,Virar,49.0,20:54,20:56,2,2165.0,Peak,Clear,On-Time/Minor Delay
+J00616,2026-07-17,Harbour,Fast,CSMT,Panvel,47.2,17:32,17:32,0,2170.0,Peak,Clear,On-Time/Minor Delay
+J00898,2026-09-13,Western,Slow,Churchgate,Virar,60.1,11:50,11:51,1,1965.0,Non-Peak,Clear,On-Time/Minor Delay
+J00388,2026-10-06,Western,Fast,Dadar,Borivali,22.4,09:58,09:59,1,2260.0,Peak,Light Rain,On-Time/Minor Delay
+J00131,2026-09-15,Central,Slow,Kurla,Kalyan,39.8,21:24,21:28,4,1527.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00946,2026-07-28,Central,Slow,Thane,Kalyan,20.6,18:28,18:30,2,1617.0,Peak,Clear,On-Time/Minor Delay
+J00150,2026-09-17,Central,Slow,CSMT,Kalyan,54.7,19:38,19:49,11,1663.0,Peak,Heavy Rain,Delayed
+J00861,2026-07-13,Harbour,Fast,Vashi,Panvel,24.5,15:04,15:14,10,577.0,Non-Peak,Heavy Rain,Delayed
+J00264,2026-07-02,Western,Fast,Andheri,Borivali,12.3,19:56,20:00,4,1865.0,Peak, clear ,On-Time/Minor Delay
+J00459,2026-07-14,Central,Fast,Kurla,Kalyan,39.8,17:58,18:03,5,3222.0,Peak,Light Rain,Delayed
+J00258,2026-08-16,Central,Slow,Kurla,Kalyan,39.9,11:56,11:58,2,1858.0,Non-Peak,Clear,On-Time/Minor Delay
+J00711,2026-09-02,Western,Slow,Churchgate,Borivali,33.5,15:20,15:24,4,822.0,Non-Peak,Clear,On-Time/Minor Delay
+J00235,2026-10-01,Central,Slow,Dadar,Thane,25.7,10:56,10:56,0,1488.0,Non-Peak,Clear,On-Time/Minor Delay
+J00566,2026-07-20,Central,Slow,Kurla,Kalyan,39.4,06:50,06:52,2,1187.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00366,2026-09-25,Western,Fast,Churchgate,Virar,60.9,20:28,20:34,6,2207.0,Peak,Heavy Rain,Delayed
+J00571,2026-09-27,Western,Slow,Dadar,Borivali,22.4,06:58,07:00,2,1267.0,Non-Peak,Clear,On-Time/Minor Delay
+J00402,2026-09-29,Central,Slow,CSMT,Dombivli,48.3,18:16,18:22,6,1768.0,Peak,Light Rain,Delayed
+J00378,2026-07-12,Western,Fast,Bandra,Virar,49.7,08:12,08:15,3,2090.0,Peak,Clear,On-Time/Minor Delay
+J00251,2026-07-16,Harbour,Fast,Vashi,Panvel,24.7,14:24,14:26,2,1313.0,Non-Peak,Clear,On-Time/Minor Delay
+J00734,2026-09-29,Harbour,Slow,Andheri,Panvel,33.0,10:50,10:53,3,1414.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00689,2026-08-02,Central,Fast,Kurla,Kalyan,40.5,19:08,19:10,2,1726.0,Peak,Cloudy,On-Time/Minor Delay
+J00015,2026-10-04,Western,Fast,Andheri,Borivali,11.9,07:04,07:07,3,2170.0,Peak,Clear,On-Time/Minor Delay
+J00367,2026-09-14,Central,Slow,CSMT,Thane,32.5,08:44,08:48,4,2609.0,Peak,Clear,On-Time/Minor Delay
+J00211,2026-09-02,Harbour,Slow,Andheri,Panvel,31.2,15:12,15:16,4,1377.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00089,2026-07-23,Central,Slow,CSMT,Dombivli,46.8,07:52,07:55,3,3379.0,Peak,Clear,On-Time/Minor Delay
+J00072,2026-08-11,Western,Slow,Bandra,Virar,49.1,19:40,19:43,3,2702.0,Peak,Light Rain,On-Time/Minor Delay
+J00438,2026-09-28,Western,Fast,Andheri,Borivali,12.4,08:06,08:11,5,2278.0,Peak,Light Rain,Delayed
+J00944,2026-07-26,Harbour,Slow,CSMT,Vashi,24.4,09:56,10:02,6,1798.0,Peak,Clear,Delayed
+J00782,2026-08-08,Central,Fast,CSMT,Thane,33.3,13:32,13:34,2,867.0,Non-Peak,Clear,On-Time/Minor Delay
+J00133,2026-09-19,Harbour,Slow,Andheri,Panvel,32.3,19:20,19:25,5,1787.0,Peak,Clear,Delayed
+J00881,2026-07-17,Harbour,Slow,CSMT,Vashi,24.8,08:52,08:57,5,1986.0,Peak,Heavy Rain,Delayed
+J00632,2026-09-09,Western,Slow,Andheri,Borivali,12.7,17:12,17:14,2,2130.0,Peak,Cloudy,On-Time/Minor Delay
+J00005,2026-09-09,Central,slow ,CSMT,Kalyan,54.0,09:04,09:07,3,1894.0,Peak,Cloudy,On-Time/Minor Delay
+J00148,2026-10-01,Harbour,Slow,Vashi,Panvel,25.7,16:28,16:30,2,1147.0,Non-Peak,Clear,On-Time/Minor Delay
+J00926,2026-09-22,Harbour,Fast,Vashi,Panvel,25.8,09:42,09:48,6,2088.0,Peak,Light Rain,Delayed
+J00341,2026-08-31,Western,Slow,Churchgate,Borivali,35.1,10:32,10:33,1,2467.0,Non-Peak,Clear,On-Time/Minor Delay
+J00401,2026-08-04,Central,Fast,CSMT,Kalyan,53.6,19:20,19:20,0,1552.0,Peak,Clear,On-Time/Minor Delay
+J00082,2026-09-05,Western,Slow,Andheri,Borivali,12.8,18:10,18:15,5,2882.0,Peak,Cloudy,Delayed
+J00056,2026-09-05,Western,Slow,Churchgate,Borivali,35.5,18:28,18:30,2,1492.0,Peak,Clear,On-Time/Minor Delay
+J00255,2026-08-12,Central,Slow,CSMT,Thane,34.0,18:58,19:04,6,2442.0,Peak,Light Rain,Delayed
+J00591,2026-08-17,Central,Fast,Dadar,Thane,25.8,16:06,16:06,0,1055.0,Non-Peak,Clear,On-Time/Minor Delay
+J00932,2026-09-19,Western,Slow,Bandra,Virar,47.1,17:36,17:39,3,2783.0,Peak,Cloudy,On-Time/Minor Delay
+J00040,2026-09-11,Western,Slow,Churchgate,Virar,58.9,23:30,23:31,1,1984.0,Non-Peak,Clear,On-Time/Minor Delay
+J00619,2026-09-20,Central,Fast,CSMT,Kalyan,52.8,10:04,10:08,4,2221.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00524,2026-08-24,Central,Slow,Dadar,Thane,26.2,09:24,09:25,1,1278.0,Off Peak,Light Rain,On-Time/Minor Delay
+J00008,2026-08-05,Harbour,Slow,CSMT,Vashi,24.1,18:48,18:54,6,1234.0,Peak,Cloudy,Delayed
+J00238,2026-08-14,Western,Fast,Churchgate,Virar,61.1,06:22,06:22,0,1497.0,Non-Peak,Clear,On-Time/Minor Delay
+J00209,2026-09-04,Western,Fast,Dadar,Borivali,21.3,16:10,16:10,0,1402.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00083,2026-08-08,Western,Slow,Churchgate,PANVEL,60.3,19:46,19:48,2,1813.0,Peak,Light Rain,On-Time/Minor Delay
+J00915,2026-10-09,Harbour,Slow,CSMT,Vashi,24.2,22:06,22:15,9,1912.0,Non-Peak,Heavy Rain,Delayed
+J00198,2026-09-23,Central,Slow,Dadar,Thane,24.6,09:28,09:31,3,2609.0,Peak,Clear,On-Time/Minor Delay
+J00854,2026-08-02,Central,Fast,CSMT,Dombivli,48.6,13:36,13:38,2,,Non-Peak,Clear,On-Time/Minor Delay
+J00581,2026-09-01,Central,Slow,CSMT,Dombivli,47.4,18:54,18:56,2,2307.0,Peak,Clear,On-Time/Minor Delay
+J00770,2026-10-04,Western,Slow,Bandra,Virar,48.8,18:08,18:13,5,2308.0,Peak,Clear,Delayed
+J00508,2026-09-16,Western,Slow,Bandra,Virar,49.8,17:06,17:06,0,1511.0,Peak,Clear,On-Time/Minor Delay
+J00538,2026-08-09,Western,Fast,Dadar,Borivali,22.4,18:48,18:49,1,2364.0,Peak,Cloudy,On-Time/Minor Delay
+J00132,2026-07-26,Central,Fast,CSMT,Kalyan,53.8,08:14,08:19,5,2278.0,Off Peak,Light Rain,Delayed
+J00114,2026-09-16,Western,Slow,Andheri,Borivali,11.9,08:14,08:18,4,2572.0,Peak,Cloudy,On-Time/Minor Delay
+J00411,2026-08-26,Central,Slow,CSMT,Thane,33.5,19:22,19:26,4,1725.0,Peak,Clear,On-Time/Minor Delay
+J00481,2026-09-27,Harbour,Slow,Bandra,Panvel,36.4,17:18,17:19,1,1334.0,Peak,Clear,On-Time/Minor Delay
+J00173,2026-09-06,Western,Fast,Churchgate,Borivali,34.1,07:08,07:10,2,1572.0,Peak,Light Rain,On-Time/Minor Delay
+J00269,2026-08-19,Western,Slow,Churchgate,Virar,61.5,17:40,17:43,3,2167.0,Peak,Clear,On-Time/Minor Delay
+J00303,2026-09-23,Western,Fast,Churchgate,Virar,59.0,08:56,09:03,7,1893.0,Peak,Heavy Rain,Delayed
+J00607,2026-08-09,Western,Fast,Borivali,Virar,19.3,18:02,18:07,5,2387.0,Peak,Cloudy,Delayed
+J00104,2026-09-02,Western,Slow,Churchgate,Virar,61.2,09:32,09:35,3,2224.0,Peak,Clear,On-Time/Minor Delay
+J00466,2026-07-08,Harbour,Slow,Andheri,Panvel,30.9,19:20,19:24,4,12500.0,Peak,Light Rain,On-Time/Minor Delay
+J00107,2026-07-18,Central,Fast,Kurla,Kalyan,39.4,13:30,13:30,0,2338.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00225,2026-08-23,Central,Slow,CSMT,Thane,32.3,22:46,22:46,0,1201.0,Off Peak,Clear,On-Time/Minor Delay
+J00920,2026-07-09,Central,Slow,Thane,Kalyan,20.2,09:36,09:40,4,2693.0,Peak,Clear,On-Time/Minor Delay
+J00717,2026-09-27,Harbour,Slow,CSMT,Panvel,48.3,21:02,21:03,1,2029.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00702,2026-07-25,Western,Slow,Churchgate,Virar,58.3,15:16,15:18,2,746.0,Non-Peak,Clear,On-Time/Minor Delay
+J00018,2026-07-25,Central,Slow,CSMT,Kalyan,52.6,17:38,17:40,2,2778.0,Peak,Cloudy,On-Time/Minor Delay
+J00242,2026-08-06,Harbour,Fast,CSMT,Vashi,23.8,14:16,14:22,6,1479.0,Non-Peak,Clear,Delayed
+J00386,2026-08-05,Western,Slow,Bandra,Virar,48.4,07:16,07:18,2,1668.0,Peak,Cloudy,On-Time/Minor Delay
+J00639,2026-10-03,Western,Slow,Borivali,Virar,18.6,11:24,11:25,1,585.0,Non-Peak,Clear,On-Time/Minor Delay
+J00350,2026-07-15,Western,Slow,Bandra,Virar,50.3,10:30,10:36,6,988.0,Non-Peak,Clear,Delayed
+J00426,2026-10-05,Western,Fast,Andheri,Borivali,12.6,21:40,21:41,1,1254.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00429,2026-08-01,Western,Slow,Churchgate,Borivali,35.0,12:44,,3,1132.0,Non-Peak,Clear,On-Time/Minor Delay
+J00259,2026-10-05,Harbour,Fast,Andheri,Panvel,32.4,13:56,13:58,2,492.0,Non-Peak,Clear,On-Time/Minor Delay
+J00285,2026-09-20,Harbour,Slow,CSMT,Panvel,50.0,16:12,16:16,4,1042.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00080,2026-09-17,Central,Slow,CSMT,Thane,32.6,09:08,09:11,3,1714.0,Peak,Clear,On-Time/Minor Delay
+J00126,2026-08-28,Central,Slow,CSMT,Thane,33.5,18:18,18:20,2,2188.0,Peak,Clear,On-Time/Minor Delay
+J00763,2026-09-23,Western,Slow,Bandra,Virar,47.9,08:10,08:13,3,1778.0,Peak,Cloudy,On-Time/Minor Delay
+J00266,2026-10-09,Western,Slow,Dadar,Borivali,23.0,19:42,19:49,7,2169.0,Peak,Cloudy,Delayed
+J00045,2026-07-05,Western,Fast,Andheri,Borivali,12.8,19:38,19:40,2,1674.0,Peak,Clear,On-Time/Minor Delay
+J00669,2026-09-15,Western,Fast,Dadar,Borivali,22.5,17:08,17:10,2,2060.0,Peak,Cloudy,On-Time/Minor Delay
+J00530,2026-09-19,Central,Fast,CSMT,Kalyan,53.3,18:30,18:33,3,3215.0,Peak,Clear,On-Time/Minor Delay
+J00153,2026-07-13,Harbour,Slow,CSMT,Vashi,24.2,14:30,14:33,3,1568.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00601,2026-09-09,Western,Fast,Churchgate,Borivali,34.5,15:54,15:56,2,1143.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00397,2026-08-19,Western,Slow,Bandra,Virar,50.1,09:36,09:37,1,2427.0,Peak,Light Rain,On-Time/Minor Delay
+J00882,2026-09-07,Western,Fast,Churchgate,Borivali,33.4,21:52,21:54,2,1853.0,Non-Peak,Clear,On-Time/Minor Delay
+J00523,2026-10-01,Central,Fast,CSMT,Kalyan,51.9,17:52,17:55,3,2253.0,Peak,Clear,On-Time/Minor Delay
+J00442,2026-09-14,Central,Slow,CSMT,Thane,32.0,09:52,09:54,2,2333.0,Peak,Cloudy,On-Time/Minor Delay
+J00240,2026-08-20,Central,Slow,Thane,Kalyan,20.0,20:58,21:02,4,2589.0,Peak,Clear,On-Time/Minor Delay
+J00856,2026-07-01,Western,Fast,Churchgate,Virar,61.1,18:34,18:38,4,1517.0,Peak,Heavy Rain,On-Time/Minor Delay
+J00301,2026-09-29,Central,Slow,CSMT,Kalyan,55.8,09:52,09:56,4,2414.0,Peak,Cloudy,On-Time/Minor Delay
+J00732,2026-08-12,Central,Slow,CSMT,Thane,34.0,17:50,17:54,4,2318.0,Peak,Clear,On-Time/Minor Delay
+J00647,2026-07-16,Western,Slow,Churchgate,Virar,59.5,12:18,12:19,1,1114.0,Non-Peak,Clear,On-Time/Minor Delay
+J00311,2026-09-19,Harbour,Slow,Vashi,Panvel,25.3,14:16,14:19,3,1770.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00592,2026-09-07,Western,Slow,Bandra,Virar,46.8,11:02,11:03,1,1223.0,Non-Peak,Clear,On-Time/Minor Delay
+J00682,2026-08-07,Western,Fast train,Churchgate,Borivali,34.1,08:18,08:23,5,2360.0,Peak,Clear,Delayed
+J00023,2026-09-14,Central,Slow,Kurla,Kalyan,39.6,16:16,16:21,5,753.0,Non-Peak,Clear,Delayed
+J00435,2026-08-30,Central,Slow,Dadar,Thane,25.1,17:08,,1,2103.0,Peak,Clear,On-Time/Minor Delay
+J00867,2026-08-10,Western,Fast,Churchgate,Virar,59.5,21:48,21:48,0,1148.0,Non-Peak,Clear,On-Time/Minor Delay
+J00339,2026-07-29,Central,Slow,CSMT,Dombivli,46.1,15:48,15:48,0,1053.0,Non-Peak,Clear,On-Time/Minor Delay
+J00887,2026-07-02,Western,Fast,Bandra,Virar,50.2,08:36,08:43,7,,Peak,Clear,Delayed
+J00160,2026-09-09,Western,Slow,Churchgate,Borivali,34.1,20:18,20:21,3,2546.0,Peak,Cloudy,On-Time/Minor Delay
+J00785,2026-07-29,Harbour,Fast,CSMT,Panvel,49.4,20:02,20:05,3,1765.0,Peak,Clear,On-Time/Minor Delay
+J00557,2026-09-13,Western,Fast,Churchgate,Borivali,33.5,18:26,18:27,1,,Peak,Cloudy,On-Time/Minor Delay
+J00555,2026-07-27,Harbour,Fast,Andheri,Panvel,32.3,08:02,08:02,0,2201.0,Peak,Clear,On-Time/Minor Delay
+J00063,2026-09-22,Western,Fast,Churchgate,Borivali,33.8,07:22,07:26,4,2378.0,Peak,Light Rain,On-Time/Minor Delay
+J00766,2026-07-16,Central,Fast,CSMT,Thane,32.2,19:34,19:39,5,1995.0,Peak,Cloudy,Delayed
+J00772,2026-09-13,Western,Fast,Borivali,Virar,18.9,08:46,08:47,1,2238.0,Peak,Clear,On-Time/Minor Delay
+J00287,2026-09-15,Harbour,Slow,Andheri,Panvel,31.3,06:24,06:26,2,508.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00635,2026-08-14,Harbour,Slow,CSMT,Vashi,24.8,17:12,17:15,3,2892.0,Peak,Cloudy,On-Time/Minor Delay
+J00579,2026-08-05,Western,Fast,Bandra,Virar,47.3,09:56,09:58,2,1625.0,Peak,Clear,On-Time/Minor Delay
+J00054,2026-09-17,Harbour,Slow,Vashi,Panvel,25.3,20:00,20:07,7,2390.0,Peak,Clear,Delayed
+J00044,2026-08-29,Central,Fast,CSMT,Kalyan,55.8,19:10,19:11,1,1603.0,Peak,Clear,On-Time/Minor Delay
+J00804,2026-08-23,Western,Fast,Borivali,Virar,19.9,19:42,19:45,3,2309.0,Peak,,On-Time/Minor Delay
+J00374,2026-08-03,Western,Fast,Borivali,Virar,18.8,21:18,21:18,0,1063.0,Non-Peak,Clear,On-Time/Minor Delay
+J00423,2026-07-23,Harbour,slow ,CSMT,Vashi,23.1,20:56,21:01,5,1472.0,Peak,Clear,Delayed
+J00670,2026-09-04,Central,Slow,Kurla,Kalyan,37.9,21:48,21:49,1,290.0,Non-Peak,Clear,On-Time/Minor Delay
+J00884,2026-10-09,Harbour,Slow,Bandra,Panvel,36.0,18:30,18:36,6,2476.0,Peak,Light Rain,Delayed
+J00091,2026-09-03,Western,Slow,Churchgate,Borivali,33.6,17:10,17:13,3,2032.0,Peak,Clear,On-Time/Minor Delay
+J00390,2026-10-09,Central,Fast,Thane,Kalyan,21.0,10:06,10:07,1,1296.0,Non-Peak,Clear,On-Time/Minor Delay
+J00111,2026-08-22,Western,Slow,Borivali,Virar,18.8,09:26,09:32,6,2127.0,Peak,Heavy Rain,Delayed
+J00627,2026-09-02,Central,Fast,CSMT,Kalyan,54.9,08:16,08:20,4,2935.0,Peak,Light Rain,On-Time/Minor Delay
+J00644,2026-07-22,Harbour,Slow,Vashi,Panvel,25.1,20:36,20:43,7,3172.0,Peak,Cloudy,Delayed
+J00698,2026-07-12,Central,Slow,Kurla,Kalyan,39.4,08:00,08:05,5,2633.0,Peak,Clear,Delayed
+J00634,2026-10-09,Western,Slow,Dadar,Borivali,22.0,08:02,08:04,2,2172.0,Peak,Clear,On-Time/Minor Delay
+J00937,2026-09-20,Western,Fast,Borivali,Virar,18.6,20:16,20:20,4,2307.0,Peak,Light Rain,On-Time/Minor Delay
+J00705,2026-08-25,Harbour,Slow,Andheri,Panvel,31.1,18:56,18:58,2,2517.0,Peak,Clear,On-Time/Minor Delay
+J00841,2026-09-07,Central,Slow,Kurla,Kalyan,40.4,16:28,16:29,1,2355.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00943,2026-10-04,Harbour,Slow,Andheri,Panvel,31.9,12:30,12:37,7,509.0,Non-Peak,Light Rain,Delayed
+J00901,2026-09-24,Central,Fast,Kurla,Kalyan,39.1,07:12,07:14,2,2052.0,Peak,Clear,On-Time/Minor Delay
+J00195,2026-08-13,Central,Slow,CSMT,Thane,34.1,08:00,08:06,6,2821.0,Peak,Clear,Delayed
+J00896,2026-09-06,Central,Slow,Thane,Kalyan,20.3,06:38,06:40,2,1003.0,Non-Peak,Clear,On-Time/Minor Delay
+J00156,2026-08-22,Western,Slow,Andheri,Borivali,12.5,19:10,19:11,1,1390.0,Peak,Clear,On-Time/Minor Delay
+J00489,2026-07-20,Central,Fast,Dadar,Thane,25.4,19:02,19:04,2,1564.0,Peak,Clear,On-Time/Minor Delay
+J00319,2026-09-20,Central,Fast,CSMT,Thane,33.1,06:16,06:19,3,727.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00326,2026-08-11,Harbour,Fast,CSMT,Panvel,47.4,21:06,21:11,5,863.0,Non-Peak,Heavy Rain,Delayed
+J00709,2026-09-01,Western,Fast,Borivali,Virar,19.9,16:10,16:10,0,1347.0,Non-Peak,Clear,On-Time/Minor Delay
+J00857,2026-08-07,Harbour,Slow,Vashi,Panvel,24.9,09:00,09:06,6,2209.0,Peak,Light Rain,Delayed
+J00747,2026-09-25,Western,Fast,Andheri,Borivali,12.7,09:16,09:19,3,1927.0,Peak,Cloudy,On-Time/Minor Delay
+J00116,2026-08-12,Harbour,Fast,Andheri,Panvel,33.0,20:46,20:50,4,2203.0,Off Peak, clear ,On-Time/Minor Delay
+J00648,2026-08-29,Central,Slow,Dadar,Thane,24.9,20:28,20:31,3,2691.0,Peak,Light Rain,On-Time/Minor Delay
+J00547,2026-07-26,Central,Slow,CSMT,Kalyan,55.5,08:16,08:21,5,2412.0,Peak,Clear,Delayed
+J00638,2026-07-22,Harbour,Fast,CSMT,Panvel,47.1,17:44,17:52,8,1717.0,Peak,Cloudy,Delayed
+J00670,2026-09-04,Central,Slow,Kurla,Kalyan,37.9,21:48,21:49,1,290.0,Non-Peak,Clear,On-Time/Minor Delay
+J00284,2026-10-03,Western,Fast,Borivali,Virar,18.7,08:56,7.5,0,1722.0,Peak,Cloudy,On-Time/Minor Delay
+J00643,2026-08-04,Western,Fast,Borivali,Virar,19.5,14:30,14:30,0,2326.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00833,2026-09-24,Central,Fast,Thane,Kalyan,20.0,09:50,09:54,4,1390.0,Peak,Cloudy,On-Time/Minor Delay
+J00135,2026-08-21,Harbour,Fast,CSMT,Panvel,48.1,16:06,16:10,4,1301.0,Non-Peak,Clear,On-Time/Minor Delay
+J00478,2026-07-24,Western,Fast,Churchgate,Borivali,33.6,11:12,11:14,2,1938.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00165,2026-08-13,Central,Slow,CSMT,Thane,32.7,09:10,09:16,6,897.0,Peak,Clear,Delayed
+J00314,2026-08-29,Western,Slow,Dadar,Borivali,21.9,10:28,10:30,2,1494.0,Non-Peak,Clear,On-Time/Minor Delay
+J00563,2026-07-22,Western,Fast,Bandra,Virar,46.9,07:36,07:37,1,2935.0,Peak,Clear,On-Time/Minor Delay
+J00294,2026-08-09,Western,Slow,Borivali,Virar,19.3,19:22,19:24,2,1807.0,Peak,Light Rain,On-Time/Minor Delay
+J00324,2026-08-23,Western,Slow,Dadar,Borivali,21.7,18:10,18:12,2,2017.0,Peak,Clear,On-Time/Minor Delay
+J00545,2026-07-21,Western,Fast,Churchgate,Virar,58.4,07:04,07:07,3,2670.0,Peak,Light Rain,On-Time/Minor Delay
+J00900,2026-09-12,Western,Fast,Andheri,Borivali,650.0,19:34,19:36,2,2106.0,Peak,Light Rain,On-Time/Minor Delay
+J00934,2026-09-13,Central,Slow,CSMT,Thane,32.7,20:14,20:17,3,1992.0,Peak,Clear,On-Time/Minor Delay
+J00455,2026-07-17,Western,Slow,Bandra,Virar,48.2,08:44,08:47,3,2076.0,Peak,Clear,On-Time/Minor Delay
+J00518,2026-07-24,Western,Slow,,Virar,58.8,10:44,10:45,1,1121.0,Non-Peak,Clear,On-Time/Minor Delay
+J00600,2026-09-22,Harbour,Slow,CSMT,Vashi,23.1,08:54,08:56,2,929.0,Peak,Clear,On-Time/Minor Delay
+J00798,2026-09-15,Western,Fast,Churchgate,Borivali,33.9,07:16,07:16,0,2163.0,Peak,heavy rain,On-Time/Minor Delay
+J00497,2026-07-21,Western,Fast,Churchgate,Virar,61.5,06:08,06:08,0,1504.0,Non-Peak,Clear,On-Time/Minor Delay
+J00876,2026-08-27,Central,Slow,Thane,Kalyan,20.9,13:00,13:02,2,1270.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00914,2026-07-10,Western,Fast,Churchgate,Borivali,35.3,06:26,06:29,3,2531.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00615,2026-07-29,Central,Fast,Thane,Kalyan,21.3,17:30,17:32,2,2366.0,Peak,Clear,On-Time/Minor Delay
+J00192,2026-07-08,Western,Slow,Borivali,Virar,19.6,19:06,19:08,2,1558.0,Peak,Cloudy,On-Time/Minor Delay
+J00542,2026-10-07,Central,Slow,Kurla,Kalyan,37.7,17:50,17:52,2,1933.0,Peak,Cloudy,On-Time/Minor Delay
+J00400,2026-09-01,Central,slow ,CSMT,Dombivli,47.0,08:08,08:12,4,1786.0,Peak,Clear,On-Time/Minor Delay
+J00138,2026-07-02,Harbour,Slow,Andheri,Panvel,32.0,99:99,07:16,4,2182.0,Peak,Cloudy,On-Time/Minor Delay
+J00511,2026-07-05,Central,Slow,Thane,Kalyan,20.2,08:06,08:10,4,2011.0,Peak,Cloudy,On-Time/Minor Delay
+J00354,2026-07-24,Central,Slow,Dadar,Thane,25.9,06:02,06:03,1,827.0,Non-Peak,Clear,On-Time/Minor Delay
+J00777,2026-08-01,Harbour,Fast,Vashi,Panvel,25.9,13:08,13:12,4,1246.0,Non-Peak,Clear,On-Time/Minor Delay
+J00046,2026-08-26,Western,Fast,Churchgate,Virar,59.7,07:24,07:24,0,2851.0,Peak,Clear,On-Time/Minor Delay
+J00612,2026-09-08,Western,Slow,Borivali,Virar,19.4,18:34,18:36,2,2792.0,Peak,Cloudy,On-Time/Minor Delay
+J00514,2026-10-06,Harbour,Slow,CSMT,Panvel,49.9,13:24,13:26,2,746.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00907,2026-07-11,Central,Slow,CSMT,Thane,31.7,08:52,08:56,4,1914.0,Peak,Cloudy,On-Time/Minor Delay
+J00237,2026-08-06,Harbour,Slow,Bandra,Panvel,37.1,18:36,18:38,2,3433.0,Peak,Cloudy,On-Time/Minor Delay
+J00368,2026-09-04,Western,Slow,Bandra,Virar,47.7,08:46,08:49,3,2131.0,Peak,Cloudy,On-Time/Minor Delay
+J00017,2026-09-04,Harbour,Slow,Andheri,Panvel,30.9,14:50,14:57,7,1227.0,Non-Peak,Light Rain,Delayed
+J00686,2026-08-02,Western,Slow,Churchgate,Virar,62.3,16:04,16:06,2,1498.0,Non-Peak,Clear,On-Time/Minor Delay
+J00885,2026-08-13,Western,Slow,Bandra,Virar,49.0,08:40,08:46,6,2203.0,Peak,Clear,Delayed
+J00375,2026-09-06,Western,Slow,Bandra,Virar,47.9,14:50,14:51,1,413.0,Non-Peak,Clear,On-Time/Minor Delay
+J00597,2026-09-12,Western,Slow,Borivali,Virar,19.0,20:16,20:22,6,2208.0,Peak,Heavy Rain,Delayed
+J00346,2026-10-04,Western,Fast,Dadar,Borivali,22.9,07:06,07:14,8,1994.0,Peak,Light Rain,Delayed
+J00535,2026-09-25,Western,Fast,Andheri,Borivali,12.8,08:14,08:18,4,1581.0,Peak,Light Rain,On-Time/Minor Delay
+J00117,2026-08-14,Western,Fast,Churchgate,Virar,61.1,16:12,16:12,0,1868.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00119,2026-08-17,Central,Slow,CSMT,Dombivli,49.7,12:54,12:58,4,1250.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00022,2026-10-06,Western,Slow,Churchgate,Borivali,33.8,09:22,09:26,4,1479.0,Peak,Cloudy,On-Time/Minor Delay
+J00115,2026-08-24,Western,Slow,Bandra,Virar,48.1,09:40,09:44,4,2407.0,Peak,Light Rain,On-Time/Minor Delay
+J00676,2026-07-01,Western,Fast,Bandra,Virar,49.4,8:5,18:48,2,99999.0,Peak,Clear,On-Time/Minor Delay
+J00718,2026-07-06,Western,Slow,Churchgate,Virar,60.2,17:22,17:24,2,1945.0,Peak,Clear,On-Time/Minor Delay
+J00317,2026-09-24,Western,Fast,Dadar,Borivali,22.4,18:12,18:14,2,2027.0,Peak,Cloudy,On-Time/Minor Delay
+J00722,2026-07-14,Western,Slow,Dadar,Borivali,21.8,17:00,17:05,5,2053.0,Peak,Light Rain,Delayed
+J00475,2026-08-08,Western,Slow,Churchgate,Borivali,33.1,09:10,09:18,8,2232.0,Peak,Clear,Delayed
+J00845,2026-09-10,Harbour,Slow,Andheri,Panvel,30.8,10:46,10:50,4,1440.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00929,2026-09-08,Western,Fast,Andheri,Borivali,12.7,09:46,09:48,2,2183.0,Peak,Clear,On-Time/Minor Delay
+J00724,2026-07-11,Harbour,Slow,CSMT,Vashi,24.4,17:30,17:39,9,1759.0,Peak,Heavy Rain,Delayed
+J00408,2026-08-04,Harbour,slow ,CSMT,Vashi,23.1,10:28,10:32,4,299.0,Non-Peak,Clear,On-Time/Minor Delay
+J00894,2026-08-12,Western,Slow,Dadar,Borivali,21.7,22:36,22:40,4,788.0,NON-PEAK ,Heavy Rain,On-Time/Minor Delay
+J00443,2026-10-09,Western,Slow,Churchgate,Borivali,35.0,09:44,09:48,4,1725.0,Peak,Light Rain,On-Time/Minor Delay
+J00713,2026-09-12,Western,Slow,Bandra,Virar,48.5,13:06,13:09,3,651.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00758,2026-08-31,Central,Slow,CSMT,Thane,32.1,19:52,19:56,4,1887.0,Peak,Clear,On-Time/Minor Delay
+J00754,2026-09-23,Central,Slow,Dadar,Thane,25.0,10:42,10:44,2,1135.0,Non-Peak,Clear,On-Time/Minor Delay
+J00725,2026-08-17,Western,Slow,Churchgate,Borivali,34.0,19:30,19:32,2,2840.0,Peak,Cloudy,On-Time/Minor Delay
+J00058,2026-07-11,Western,Slow,Dadar,Borivali,22.0,19:18,19:23,5,2081.0,Peak,Clear,Delayed
+J00507,2026-09-17,Western,Slow,Borivali,Virar,19.5,06:52,06:54,2,1129.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00707,2026-08-17,Harbour,Slow,Vashi,Panvel,25.1,10:48,10:54,6,739.0,Non-Peak,Clear,Delayed
+J00325,2026-07-31,Western,Slow,Bandra,Virar,49.1,06:36,06:36,0,,Non-Peak,Clear,On-Time/Minor Delay
+J00308,2026-07-07,Western,FAST,Andheri,Borivali,12.3,08:12,08:13,1,2895.0,Peak,Clear,On-Time/Minor Delay
+J00559,2026-10-08,Western,Fast,Dadar,Borivali,23.0,16:46,16:48,2,928.0,Non-Peak,Clear,On-Time/Minor Delay
+J00136,2026-08-06,Central,Fast,CSMT,Kalyan,54.9,17:06,17:13,7,2505.0,Peak,Light Rain,Delayed
+J00288,2026-07-31,Western,Slow,Churchgate,Virar,58.3,23:24,23:28,4,1311.0,Non-Peak,Clear,On-Time/Minor Delay
+J00310,2026-09-17,Western,Slow,Andheri,Borivali,12.0,17:40,17:43,3,1391.0,Peak,Light Rain,On-Time/Minor Delay
+J00381,2026-07-28,Western,Fast,Borivali,Virar,18.7,18:12,18:16,4,1988.0,Peak,Clear,On-Time/Minor Delay
+J00551,2026-07-22,Central line,Slow,Borivali,Virar,19.1,20:32,20:36,4,2471.0,Peak,Light Rain,On-Time/Minor Delay
+J00476,2026-07-28,Central,Fast,CSMT,Kalyan,55.1,18:26,18:34,8,1452.0,Peak,Heavy Rain,Delayed
+J00282,2026-08-16,Central,Fast,CSMT,Kalyan,55.6,20:04,20:04,0,1601.0,Peak,Clear,On-Time/Minor Delay
+J00256,2026-08-31,Western,Fast,Andheri,Borivali,12.6,22:36,22:39,3,1677.0,Non-Peak,Clear,On-Time/Minor Delay
+J00483,2026-09-05,Western,Slow,Churchgate,Borivali,35.1,20:18,20:24,6,2593.0,Peak,Light Rain,Delayed
+J00922,2026-07-04,Western,Fast,Borivali,Virar,19.5,15:20,15:22,2,2015.0,Non-Peak,Clear,On-Time/Minor Delay
+J00323,2026-07-04,Harbour,Slow,Bandra,Panvel,38.1,14:16,14:20,4,1125.0,Off Peak,Clear,On-Time/Minor Delay
+J00437,2026-07-05,Central,Fast,CSMT,Thane,32.6,08:34,08:40,6,1766.0,Peak,Light Rain,Delayed
+J00499,2026-10-01,Western,Slow,Bandra,Virar,49.6,20:36,20:44,8,2198.0,Peak,Light Rain,Delayed
+J00830,2026-08-15,Western,Slow,Churchgate,Borivali,32.9,21:54,21:56,2,1958.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00677,2026-09-01,Harbour,Slow,Andheri,Panvel,30.9,09:46,09:51,5,2398.0,Peak,Light Rain,Delayed
+J00302,2026-09-02,Western,Slow,Bandra,Virar,49.4,19:30,19:33,3,2011.0,Peak,Cloudy,On-Time/Minor Delay
+J00024,2026-07-19,Central,Fast,Thane,Kalyan,20.8,12:56,12:56,0,940.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00721,2026-09-07,Central,Fast,CSMT,Kalyan,55.3,10:58,11:00,2,2463.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00516,2026-08-13,Central,Slow,Thane,Kalyan,20.9,20:54,20:56,2,1473.0,Peak,Clear,On-Time/Minor Delay
+J00942,2026-07-15,Central,Slow,CSMT,Kalyan,53.2,17:28,17:30,2,2235.0,Peak,Clear,On-Time/Minor Delay
+J00212,2026-08-12,Central,Fast,CSMT,Kalyan,53.6,18:36,18:39,3,2806.0,Peak,Clear,On-Time/Minor Delay
+J00112,2026-07-02,Western,Slow,Dadar,Borivali,21.5,20:02,20:04,2,1192.0,Peak,Light Rain,On-Time/Minor Delay
+J00084,2026-09-13,Central,Slow,Thane,Kalyan,21.4,19:22,19:26,4,2509.0,Peak,Clear,On-Time/Minor Delay
+J00201,2026-09-28,Western,Slow,Churchgate,Virar,59.8,08:52,08:55,3,2297.0,Peak,Light Rain,On-Time/Minor Delay
+J00254,2026-07-15,Harbour,Slow,Bandra,Panvel,36.5,08:12,08:16,4,2659.0,Peak,Cloudy,On-Time/Minor Delay
+J00369,2026-08-05,Western,Fast,Dadar,Borivali,22.5,17:04,17:07,3,3576.0,Peak,Light Rain,On-Time/Minor Delay
+J00556,2026-08-26,Western,Slow,Borivali,Virar,18.9,07:22,07:26,4,2030.0,Peak,Light Rain,On-Time/Minor Delay
+J00357,2026-07-21,Central,Fast,Dadar,Thane,25.7,15:50,15:50,0,1852.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00498,2026-07-25,Western,Slow,Dadar,Borivali,23.0,19:26,19:30,4,2183.0,Peak,Clear,On-Time/Minor Delay
+J00588,2026-10-03,Western,Slow,Churchgate,Virar,57.9,07:04,07:06,2,2517.0,Peak,Clear,On-Time/Minor Delay
+J00383,2026-08-27,Harbour,Fast,Andheri,Panvel,33.2,21:56,21:58,2,1094.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00098,2026-07-24,Central,Slow,CSMT,Kalyan,55.8,07:32,07:34,2,1963.0,Peak,Clear,On-Time/Minor Delay
+J00220,2026-07-13,Central,Slow,Kurla,Kalyan,38.0,18:12,18:13,1,2115.0,Peak,Clear,On-Time/Minor Delay
+J00895,2026-09-04,Central,Fast,CSMT,Kalyan,55.8,11:38,11:41,3,1131.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00296,2026-09-10,Western,Slow,Churchgate,Borivali,33.9,18:20,18:21,1,2719.0,Peak,Clear,On-Time/Minor Delay
+J00617,2026-09-28,Central,Fast,Thane,Kalyan,20.6,19:06,19:09,3,2649.0,Peak,Light Rain,On-Time/Minor Delay
+J00199,2026-07-22,Western,Slow,Andheri,Borivali,12.1,08:24,08:30,6,2153.0,Peak,Light Rain,Delayed
+J00230,2026-09-28,Central,Slow,Kurla,Kalyan,39.8,18:32,18:37,5,2064.0,Peak,Light Rain,Delayed
+J00548,2026-08-10,Central,slow ,Dadar,Thane,25.5,12:40,12:41,1,702.0,Non-Peak,Clear,On-Time/Minor Delay
+J00631,not-a-date,harbour,Fast,Dadar,Borivali,21.4,08:52,08:57,5,2441.0,Peak,Clear,Delayed
+J00205,2026-09-16,Western,Slow,Andheri,Borivali,12.0,09:22,09:27,5,2230.0,Peak,Light Rain,Delayed
+J00674,2026-08-06,Central,Slow,Dadar,Thane,24.8,21:58,22:00,2,1039.0,Non-Peak,Clear,On-Time/Minor Delay
+J00837,2026-08-24,Central,Fast,Dadar,Thane,25.9,10:58,10:59,1,250.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00096,2026-07-04,Harbour,Fast,CSMT,Panvel,48.9,07:24,07:30,6,1537.0,Peak,Clear,Delayed
+J00320,2026-09-24,Harbour,Slow,Vashi,Panvel,24.6,11:10,11:10,0,1390.0,Non-Peak,Clear,On-Time/Minor Delay
+J00906,2026-09-15,Western,Slow,Churchgate,Virar,57.7,18:50,18:53,3,2103.0,Peak,Light Rain,On-Time/Minor Delay
+J00358,2026-08-29,Central,Slow,Thane,Kalyan,20.6,08:28,08:32,4,1668.0,Peak,Clear,On-Time/Minor Delay
+J00708,2026-09-16,Western,Slow,Bandra,Virar,48.0,09:52,09:53,1,2682.0,Peak,Light Rain,On-Time/Minor Delay
+J00422,2026-09-15,Central,Fast,CSMT,Kalyan,54.6,13:48,13:53,5,1027.0,Non-Peak,Light Rain,Delayed
+J00039,2026-09-15,Central,Slow,Kurla,Kalyan,37.7,17:36,17:38,2,2836.0,Peak,Clear,On-Time/Minor Delay
+J00391,2026-09-05,Harbour,Slow,Bandra,Panvel,37.0,20:42,20:46,4,2186.0,Peak,Clear,On-Time/Minor Delay
+J00166,2026-08-25,Western,Slow,Andheri,Borivali,12.6,16:16,16:20,4,1676.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00553,2026-09-22,western,Fast,Bandra,Virar,47.3,14:24,14:24,0,1096.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00738,2026-07-09,Central,Slow,CSMT,Kalyan,55.7,08:00,08:01,1,2016.0,Peak,Rain,On-Time/Minor Delay
+J00395,2026-07-25,Western,Slow,Churchgate,Virar,59.0,18:30,18:32,2,2868.0,Peak,Cloudy,On-Time/Minor Delay
+J00890,2026-09-23,Harbour,Slow,Bandra,Panvel,37.0,17:38,17:43,5,1785.0,Peak,Clear,Delayed
+J00883,2026-08-03,Central,Slow,CSMT,Thane,34.0,06:12,06:13,1,1631.0,Non-Peak,Clear,On-Time/Minor Delay
+J00128,2026-09-10,Central,Fast,CSMT,Thane,33.7,13:16,13:16,0,1541.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00281,2026-10-04,Western,Slow,Bandra,Virar,49.0,10:22,10:22,0,1707.0,Non-Peak,Clear,On-Time/Minor Delay
+J00583,2026-07-14,Harbour,Slow,Bandra,Panvel,35.9,20:42,20:43,1,1994.0,Peak,Clear,On-Time/Minor Delay
+J00241,2026-07-21,Central,Slow,CSMT,Dombivli,49.1,20:28,20:28,0,2033.0,Peak,Clear,On-Time/Minor Delay
+J00891,2026-07-24,Central,Slow,CSMT,Kalyan,53.1,20:12,20:14,2,1307.0,Peak,Cloudy,On-Time/Minor Delay
+J00716,2026-08-02,Harbour,Slow,Vashi,Panvel,24.9,07:38,07:44,6,1620.0,Peak,Clear,Delayed
+J00309,2026-08-02,Central,Slow,CSMT,Dombivli,49.4,19:52,19:56,4,2774.0,Peak,Cloudy,On-Time/Minor Delay
+J00361,2026-07-23,Central,Slow,Thane,Kalyan,20.3,17:24,17:24,0,2270.0,Peak,Clear,On-Time/Minor Delay
+J00445,2026-08-21,Western,Slow,Churchgate,Borivali,33.3,09:08,09:09,1,1740.0,Peak,Cloudy,On-Time/Minor Delay
+J00016,2026-08-30,Central,Slow,CSMT,Kalyan,55.7,09:14,09:19,5,2297.0,Peak,Light Rain,Delayed
+J00257,2026-07-05,Central,Fast,CSMT,Kalyan,54.4,06:46,06:50,4,2185.0,Non-Peak,Clear,On-Time/Minor Delay
+J00598,2026-08-19,Central,Slow,CSMT,Kalyan,53.3,10:34,10:35,1,580.0,Non-Peak,Clear,On-Time/Minor Delay
+J00549,2026-08-05,Harbour,Fast,Vashi,Panvel,24.5,22:30,22:35,5,2138.0,Non-Peak,Clear,Delayed
+J00227,2026-08-12,Central,Slow,Kurla,Kalyan,38.0,18:24,18:27,3,2200.0,Peak,Clear,On-Time/Minor Delay
+J00376,2026-09-30,Western,Slow,Andheri,Borivali,12.5,19:02,19:09,7,2051.0,Peak,Heavy Rain,Delayed
+J00604,2026-08-26,Western,Slow,Churchgate,Virar,61.8,08:28,08:31,3,2841.0,Peak,Light Rain,On-Time/Minor Delay
+J00372,2026-09-17,Western,Slow,Churchgate,Borivali,34.5,17:04,17:05,1,2303.0,Peak,Light Rain,On-Time/Minor Delay
+J00073,2026-09-02,Harbour,Slow,CSMT,Panvel,49.0,17:24,17:26,2,1784.0,Peak,Clear,On-Time/Minor Delay
+J00157,2026-08-17,Central,Fast,CSMT,Thane,33.7,14:24,14:24,0,250.0,Non-Peak,Clear,On-Time/Minor Delay
+J00216,2026-10-05,Western,Slow,Bandra,Virar,48.4,14:20,14:25,5,1266.0,Non-Peak,Clear,Delayed
+J00731,2026-07-30,Western,Slow,Churchgate,Borivali,33.3,07:16,07:18,2,2748.0,Peak,Light Rain,On-Time/Minor Delay
+J00463,2026-08-15,Harbour,Slow,Bandra,Panvel,36.6,16:58,17:01,3,1870.0,Non-Peak,Clear,On-Time/Minor Delay
+J00435,2026-08-30,Central,Slow,Dadar,Thane,25.1,17:08,17:09,1,2103.0,Peak,Clear,On-Time/Minor Delay
+J00554,2026-08-28,Western,Slow,Borivali,Virar,19.5,10:08,10:09,1,1902.0,Non-Peak,Clear,On-Time/Minor Delay
+J00904,2026-09-13,Western,Slow,Bandra,Virar,48.3,07:04,07:08,4,2282.0,Peak,Cloudy,On-Time/Minor Delay
+J00902,2026-08-30,Western,Slow,Borivali,Virar,19.6,20:12,20:16,4,2305.0,Peak,Cloudy,On-Time/Minor Delay
+J00496,2026-10-05,Western,slow ,Andheri,Borivali,12.6,20:02,20:02,0,1780.0,Peak,Clear,On-Time/Minor Delay
+J00185,2026-08-26,Western,Slow,Churchgate,Virar,59.0,08:44,08:46,2,1887.0,Peak,Cloudy,On-Time/Minor Delay
+J00749,2026-09-01,Harbour,Slow,Vashi,Panvel,24.6,08:58,09:00,2,2050.0,Peak,Clear,On-Time/Minor Delay
+J00810,2026-07-08,Western,Fast,Andheri,Borivali,12.5,07:42,07:42,0,1391.0,Peak,Clear,On-Time/Minor Delay
+J00823,2026-07-16,Harbour,Slow,Bandra,Panvel,38.1,07:48,07:54,6,1794.0,Peak,Light Rain,Delayed
+J00941,2026-08-12,Western,Fast,Churchgate,Borivali,35.4,21:34,21:37,3,339.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00168,2026-08-30,Central,Slow,Dadar,Thane,25.4,19:30,19:36,6,1721.0,Peak,Clear,Delayed
+J00007,2026-09-28,Central,Fast,Thane,Kalyan,20.0,17:08,17:08,0,1664.0,Peak,Clear,On-Time/Minor Delay
+J00945,2026-10-07,Harbour,Slow,Bandra,Panvel,38.0,08:32,08:35,3,2384.0,Peak,Light Rain,On-Time/Minor Delay
+J00826,2026-08-30,Central,Slow,Kurla,Kalyan,37.6,10:18,10:25,7,2027.0,Non-Peak,Light Rain,Delayed
+J00544,2026-09-15,Western,Fast,Churchgate,Virar,57.9,10:42,10:44,2,1196.0,Non-Peak,Clear,On-Time/Minor Delay
+J00217,2026-09-25,Central,Slow,CSMT,Thane,32.6,18:14,18:20,6,2273.0,Peak,Clear,Delayed
+J00658,2026-08-29,Harbour,Fast,Andheri,Panvel,31.3,08:42,08:50,8,1533.0,Peak,Clear,Delayed
+J00655,2026-08-13,Central,Slow,CSMT,Dombivli,48.2,13:46,,1,920.0,Non-Peak,Clear,On-Time/Minor Delay
+J00868,2026-07-04,Central,Slow,CSMT,Dombivli,49.1,05:00,05:00,0,1099.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00360,2026-09-14,Central,Fast,CSMT,Kalyan,51.9,19:00,19:02,2,1490.0,Peak,Clear,On-Time/Minor Delay
+J00026,2026-08-12,Western,Slow,Borivali,Unknown,19.0,06:24,06:26,2,1257.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00871,2026-08-03,Western,Fast,Andheri,Borivali,12.6,09:54,09:55,1,2080.0,Peak,Clear,On-Time/Minor Delay
+J00336,2026-07-07,Central,Slow,Dadar,Thane,24.9,09:46,09:48,2,2028.0,Peak,Clear,On-Time/Minor Delay
+J00197,2026-10-07,Western,Slow,Bandra,Virar,49.9,07:18,07:20,2,3063.0,Peak,Clear,On-Time/Minor Delay
+J00762,2026-07-11,Central,Slow,Thane,Kalyan,20.4,18:42,18:46,4,1854.0,Peak,Clear,On-Time/Minor Delay
+J00586,2026-08-21,Harbour,Slow,Bandra,Panvel,36.7,10:50,10:52,2,870.0,Non-Peak,Clear,On-Time/Minor Delay
+J00012,2026-10-09,Western,Slow,Churchgate,Virar,59.3,21:06,21:07,1,1443.0,Non-Peak,Clear,On-Time/Minor Delay
+J00636,2026-08-06,Western,Slow,Churchgate,Borivali,34.5,07:42,07:44,2,1555.0,Peak,Light Rain,On-Time/Minor Delay
+J00384,2026-09-05,Western,Slow,Bandra,Virar,47.1,19:02,19:05,3,1680.0,Peak,Light Rain,On-Time/Minor Delay
+J00399,2026-09-08,Western,Slow,Churchgate,Borivali,35.5,07:24,07:26,2,2239.0,Peak,Cloudy,On-Time/Minor Delay
+J00304,2026-10-02,Western,Slow,Churchgate,Borivali,33.2,16:36,16:36,0,1478.0,Non-Peak,Clear,On-Time/Minor Delay
+J00231,2026-07-16,Central,Fast,Thane,Kalyan,20.7,21:30,21:34,4,1293.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00560,2026-08-20,Western,Slow,Churchgate,Virar,60.1,07:58,08:03,5,1593.0,Peak,Light Rain,Delayed
+J00262,2026-07-21,Harbour,Fast,Bandra,Panvel,37.8,10:56,10:58,2,880.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00593,2026-07-19,Central,Fast,Dadar,Thane,26.2,15:48,15:52,4,855.0,Non-Peak,Clear,On-Time/Minor Delay
+J00477,2026-09-28,Western,Fast,Churchgate,Virar,59.6,18:50,18:51,1,2744.0,Peak,Cloudy,On-Time/Minor Delay
+J00933,2026-09-17,Central,Slow,CSMT,Thane,33.1,11:22,11:22,0,1022.0,Non-Peak,,On-Time/Minor Delay
+J00517,2026-09-30,Harbour,Fast,Bandra,Panvel,37.5,18:46,18:50,4,1916.0,Peak,Light Rain,On-Time/Minor Delay
+J00379,2026-07-20,Central,Slow,CSMT,Thane,32.4,16:16,16:21,5,1022.0,Non-Peak,Cloudy,Delayed
+J00210,2026-10-09,Western,Slow,Borivali,Virar,19.5,15:26,15:28,2,1606.0,Non-Peak,Clear,On-Time/Minor Delay
+J00035,2026-09-20,Central,Slow,CSMT,Dombivli,47.1,19:34,19:39,5,2059.0,Peak,Clear,Delayed
+J00912,2026-09-08,Western,Slow,Dadar,Borivali,22.2,18:16,18:18,2,2071.0,Peak,Cloudy,On-Time/Minor Delay
+J00880,2026-09-02,Western,Fast,Churchgate,Virar,58.2,13:06,13:07,1,563.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00142,2026-08-30,Central,Fast,CSMT,Kalyan,55.6,20:28,20:31,3,1259.0,Peak,,On-Time/Minor Delay
+J00474,2026-07-03,Central,Slow,Thane,Kalyan,20.3,09:54,09:57,3,1919.0,Peak,Clear,On-Time/Minor Delay
+J00493,2026-09-10,Western,Slow,Dadar,Borivali,21.9,12:14,12:17,3,1025.0,Non-Peak,Clear,On-Time/Minor Delay
+J00454,2026-07-05,Central,Slow,Thane,Kalyan,21.2,09:28,09:30,2,828.0,Peak,Cloudy,On-Time/Minor Delay
+J00603,2026-09-17,Central,Slow,Dadar,Thane,24.9,21:06,21:08,2,900.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00305,2026-09-01,Harbour,Slow,Vashi,Panvel,24.6,13:12,13:14,2,1279.0,Non-Peak,Clear,On-Time/Minor Delay
+J00291,2026-07-04,Harbour,Fast,CSMT,Vashi,24.2,12:30,12:32,2,,Non-Peak,,On-Time/Minor Delay
+J00925,2026-07-28,Harbour,Slow,Andheri,Panvel,33.2,07:26,07:30,4,3049.0,Peak,Clear,On-Time/Minor Delay
+J00048,2026-08-07,Harbour,Slow,CSMT,Vashi,23.1,14:24,14:27,3,1657.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00651,2026-08-05,Western,Slow,Bandra,Virar,49.8,22:44,22:45,1,640.0,Non-Peak,Clear,On-Time/Minor Delay
+J00519,2026-09-18,Western,Slow,Churchgate,Borivli,34.9,17:28,17:36,8,1883.0,Peak,Light Rain,Delayed
+J00935,2026-07-20,Harbour,Slow,Vashi,Panvel,25.3,22:42,22:48,6,1743.0,Non-Peak,Light Rain,Delayed
+J00270,2026-09-28,Western,Slow,Andheri,Borivali,12.1,15:56,15:57,1,1943.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00919,2026-08-23,Harbour,Slow,Andheri,Panvel,31.6,20:44,20:49,5,1998.0,Peak,Clear,Delayed
+J00299,2026-08-25,Western,Slow,Bandra,Virar,47.0,21:14,21:16,2,1386.0,Non-Peak,Clear,On-Time/Minor Delay
+J00675,2026-09-17,Western,Slow,Bandra,Virar,49.6,15:18,15:19,1,533.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00206,2026-08-15,Western,Slow,Dadar,Borivali,22.3,14:50,14:51,1,1871.0,Non-Peak,Clear,On-Time/Minor Delay
+J00691,2026-09-28,Western,Slow,Churchgate,Virar,60.5,17:56,18:06,10,2571.0,Peak,Heavy Rain,Delayed
+J00486,2026-09-23,Western,Slow,Dadar,Borivali,22.2,13:44,13:45,1,1280.0,Non-Peak,Clear,On-Time/Minor Delay
+J00828,2026-09-10,Western,FAST,Churchgate,Virar,61.1,17:28,17:29,1,1722.0,Peak,Clear,On-Time/Minor Delay
+J00447,2026-07-05,Harbour,Fast,Vashi,Panvel,25.6,11:38,11:42,4,1206.0,Non-Peak,Clear,On-Time/Minor Delay
+J00011,2026-08-31,Western,Slow,Churchgate,Borivali,34.3,15:24,15:26,2,1163.0,Non-Peak,Clear,On-Time/Minor Delay
+J00130,2026-09-28,Western,Slow,Churchgate,Borivali,34.5,19:42,19:45,3,1553.0,Peak,Cloudy,On-Time/Minor Delay
+J00797,2026-09-07,Western,Fast,Bandra,Virar,47.6,11:22,11:22,0,2129.0,Non-Peak,Clear,On-Time/Minor Delay
+J00322,2026-08-15,Central,Fast,CSMT,Thane,31.8,09:08,09:12,4,1563.0,Peak,Clear,On-Time/Minor Delay
+J00140,2026-07-23,Western,Slow,Bandra,Virar,49.5,08:56,08:57,1,1968.0,Peak,Light Rain,On-Time/Minor Delay
+J00353,2026-08-27,Western,Fast,Churchgate,Borivali,33.6,09:14,09:16,2,1729.0,Peak,Cloudy,On-Time/Minor Delay
+J00622,2026-10-04,Western,Fast,Bandra,Virar,49.3,18:16,18:17,1,1958.0,Peak,Clear,On-Time/Minor Delay
+J00424,2026-09-26,Western,Fast,Churchgate,Borivali,35.1,15:12,15:16,4,1042.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00813,2026-07-14,Western,Slow,Churchgate,Virar,62.0,14:34,14:35,1,836.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00092,2026-09-24,Central,Slow,Thane,Kalyan,20.3,10:42,10:45,3,579.0,Non-Peak,,On-Time/Minor Delay
+J00006,2026-07-19,Western,Slow,Churchgate,Borivali,34.1,07:44,07:47,3,2263.0,Peak,Light Rain,On-Time/Minor Delay
+J00028,2026-09-07,Western,Slow,Churchgate,Borivali,33.8,10:50,10:53,3,2377.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00120,2026-09-04,Central,Slow,CSMT,Thane,33.7,16:52,16:54,2,943.0,Non-Peak,Clear,On-Time/Minor Delay
+J00250,2026-07-01,Harbour,Slow,CSMT,Vashi,24.3,19:46,19:50,4,2165.0,Peak,Clear,On-Time/Minor Delay
+J00923,2026-09-18,Western,Slow,Dadar,Borivali,22.3,05:30,05:31,1,1230.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00329,2026-07-03,Central,Slow,Thane,Kalyan,21.5,13:58,13:58,0,923.0,Non-Peak,Clear,On-Time/Minor Delay
+J00748,2026-09-30,Central,Fast,CSMT,Dombivli,48.9,09:24,,4,2515.0,Peak,Clear,On-Time/Minor Delay
+J00099,2026-07-12,Central,Fast,Thane,Kalyan,21.3,08:28,08:28,0,1688.0,Peak,,On-Time/Minor Delay
+J00432,2026-08-18,Western,Fast,,Borivali,22.9,19:24,19:28,4,2743.0,Peak,Clear,On-Time/Minor Delay
+J00335,2026-07-16,Central,Fast,Dadar,Thane,24.3,09:20,09:21,1,2115.0,Peak,Clear,On-Time/Minor Delay
+J00505,2026-07-28,Western,Fast,Borivali,Virar,18.7,11:58,,5,1756.0,Non-Peak,Light Rain,Delayed
+J00030,2026-07-25,Central,Slow,Dadar,Thane,24.6,19:06,19:07,1,1152.0,Peak,Clear,On-Time/Minor Delay
+J00037,2026-09-01,Harbour,Slow,Bandra,Panvel,38.0,16:54,16:55,1,860.0,Non-Peak,Clear,On-Time/Minor Delay
+J00633,2026-08-06,Central,Slow,,Kalyan,52.3,10:06,10:09,3,1712.0,Non-Peak,heavy rain,On-Time/Minor Delay
+J00893,2026-08-17,Western,Slow,Bandra,Virar,48.8,08:44,08:51,7,1274.0,Peak,Clear,Delayed
+J00265,2026-09-10,Harbour,Slow,Andheri,Panvel,31.5,09:50,09:55,5,2959.0,Peak,Clear,Delayed
+J00578,2026-07-25,Western,Slow,Churchgate,Virar,60.0,08:20,08:21,1,3052.0,Peak,Cloudy,On-Time/Minor Delay
+J00403,2026-09-05,Western,Slow,Churchgate,Virar,59.4,21:52,21:56,4,1029.0,Non-Peak,Clear,On-Time/Minor Delay
+J00836,2026-09-12,Western,Slow,Bandra,Virar,48.5,16:42,16:42,0,1229.0,Non-Peak,,On-Time/Minor Delay
+J00351,2026-08-12,Western,Slow,Andheri,Borivali,12.0,18:30,18:30,0,3329.0,Peak,Cloudy,On-Time/Minor Delay
+J00180,2026-09-10,Western,Slow,Andheri,Borivali,12.0,20:42,20:43,1,1334.0,Peak,Clear,On-Time/Minor Delay
+J00234,2026-08-01,Central,Slow,CSMT,Kalyan,55.5,17:24,17:27,3,1185.0,Peak,Clear,On-Time/Minor Delay
+J00799,2026-08-14,Central,Slow,Dadar,Thane,26.0,18:32,18:36,4,2045.0,Peak,Clear,On-Time/Minor Delay
+J00664,2026-09-26,Western,Slow,Dadar,Borivali,21.2,20:40,20:43,3,2738.0,Peak,Clear,On-Time/Minor Delay
+J00389,2026-08-26,Western,Slow,Churchgate,Virar,59.9,19:46,19:50,4,1389.0,Peak,Clear,On-Time/Minor Delay
+J00536,2026-09-19,Central,Fast,CSMT,Dombivli,48.1,20:56,20:58,2,2188.0,Peak,Clear,On-Time/Minor Delay
+J00434,2026-08-18,Central,Slow,CSMT,Dombivli,48.5,09:54,09:56,2,2409.0,Peak,Clear,On-Time/Minor Delay
+J00121,2026-08-10,Western,Slow,Churchgate,Virar,58.1,09:00,09:01,1,1716.0,Peak,Cloudy,On-Time/Minor Delay
+J00472,2026-09-28,Central,Fast,Kurla,Kalyan,38.0,08:56,08:59,3,2116.0,Peak,,On-Time/Minor Delay
+J00452,2026-10-02,Central,FAST,CSMT,Kalyan,56.0,18:28,18:33,5,1452.0,Peak,Heavy Rain,Delayed
+J00696,2026-09-19,Western,Fast,Borivali,Virar,18.8,20:22,20:23,1,2998.0,Peak,Clear,On-Time/Minor Delay
+J00283,2026-09-08,Western,Slow,Churchgate,Virar,61.2,18:34,18:37,3,2256.0,Peak,Cloudy,On-Time/Minor Delay
+J00838,2026-07-05,Western,Fast,Borivali,Virar,19.4,20:34,20:36,2,2526.0,Peak,,On-Time/Minor Delay
+J00409,2026-07-30,Western,Fast,Bandra,Virar,48.3,17:54,17:57,3,2144.0,Peak,Clear,On-Time/Minor Delay
+J00460,2026-10-02,Harbour,Fast,Bandra,Panvel,37.2,10:20,10:22,2,880.0,Non-Peak,Clear,On-Time/Minor Delay
+J00729,2026-07-07,Western,Slow,Dadar,Borivali,22.2,20:00,20:03,3,2620.0,Peak,Clear,On-Time/Minor Delay
+J00501,2026-08-11,Harbour,Fast,Vashi,Panvel,24.0,19:36,19:38,2,3298.0,Peak,Cloudy,On-Time/Minor Delay
+J00313,2026-09-09,Central,Fast,CSMT,Dombivli,48.5,20:10,20:10,0,1804.0,Peak,Cloudy,On-Time/Minor Delay
+J00025,2026-07-28,Western,Slow,Andheri,Borivali,12.9,19:16,19:21,5,1620.0,Peak,Cloudy,Delayed
+J00626,2026-07-19,Harbour,Slow,Andheri,Panvel,32.0,20:12,20:18,6,2880.0,Peak,Clear,Delayed
+J00495,2026-09-20,Central,Fast,CSMT,Thane,32.5,12:26,12:29,3,250.0,Non-Peak,Clear,On-Time/Minor Delay
+J00543,2026-07-21,Western,Fast,Bandra,Virar,46.7,08:30,08:36,6,2225.0,Peak,Light Rain,Delayed
+J00790,2026-09-10,Harbour,Slow,Andheri,Panvel,30.7,18:44,18:47,3,2433.0,Peak,Clear,On-Time/Minor Delay
+J00355,2026-09-03,Harbour,Slow,CSMT,Panvel,50.3,06:44,06:51,7,1677.0,Non-Peak,Light Rain,Delayed
+J00278,2026-08-30,Central,Slow,CSMT,Dombivli,49.7,18:46,18:48,2,1538.0,Peak,Clear,On-Time/Minor Delay
+J00380,2026-07-21,Central,Slow,CSMT,Thane,33.5,16:48,16:51,3,1188.0,Non-Peak,Clear,On-Time/Minor Delay
+J00405,2026-07-21,Harbour,Fast,Vashi,Panvel,25.2,20:28,20:30,2,1366.0,Peak,Clear,On-Time/Minor Delay
+J00903,2026-08-24,Western,Fast,Andheri,Borivali,12.1,12:52,12:54,2,1210.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00053,2026-09-17,Western,Fast,Andheri,Borivali,12.1,09:02,09:05,3,1896.0,Peak,Clear,On-Time/Minor Delay
+J00484,2026-08-28,Western,Slow,Borivali,Virar,20.0,17:08,17:13,5,2252.0,Peak,Cloudy,Delayed
+J00172,2026-09-02,Harbour,Fast,Bandra,Panvel,36.5,10:26,10:27,1,1413.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00769,2026-07-28,Central,Fast,CSMT,Thane,33.4,18:04,18:08,4,2393.0,Peak,Cloudy,On-Time/Minor Delay
+J00850,2026-08-31,Central,Slow,CSMT,Kalyan,53.6,18:42,18:44,2,2257.0,Peak,Clear,On-Time/Minor Delay
+J00441,2026-07-21,Central,Slow,CSMT,Kalyan,52.1,19:22,19:25,3,2433.0,Peak,Clear,On-Time/Minor Delay
+J00427,2026-07-22,Western,Slow,Dadar,Borivali,21.7,14:28,14:28,0,999.0,Non-Peak,Clear,On-Time/Minor Delay
+J00414,2026-08-27,Central,Slow,Thane,Kalyan,20.4,21:00,21:05,5,,Non-Peak,,Delayed
+J00094,2026-09-26,Harbour,Fast,Bandra,Panvel,37.1,11:26,11:29,3,1606.0,Non-Peak,Clear,On-Time/Minor Delay
+J00222,2026-07-08,Central,Slow,Thane,Kalyan,21.5,21:34,21:39,5,1516.0,Non-Peak,Light Rain,Delayed
+J00385,2026-09-27,Central,Fast,Dadar,Thane,24.9,16:50,16:50,0,1701.0,Non-Peak,Clear,On-Time/Minor Delay
+J00803,2026/13/40,Central,Slow,Kurla,Kalyan,38.4,20:40,20:43,3,1683.0,Peak,Clear,On-Time/Minor Delay
+J00462,2026-10-04,Western,Slow,Churchgate,Borivali,32.9,09:12,09:16,4,2214.0,Peak,Cloudy,On-Time/Minor Delay
+J00522,2026-10-09,Western,Fast,Borivali,Virar,19.9,14:56,14:57,1,967.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00910,2026-09-17,Central,Fast,CSMT,Dombivli,47.9,18:40,18:44,4,2122.0,Peak,Light Rain,On-Time/Minor Delay
+J00002,2026-09-25,Harbour,Slow,CSMT,Panvel,49.6,15:04,15:08,4,877.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00552,2026-09-11,Harbour,Fast,CSMT,Vashi,23.7,18:36,18:42,6,2626.0,Peak,Light Rain,Delayed
+J00879,2026-07-14,Harbour,Slow,CSMT,Vashi,23.4,17:34,17:36,2,1806.0,Peak,Clear,On-Time/Minor Delay
+J00145,2026-08-17,Western,Slow,Andheri,Borivali,12.6,16:18,16:23,5,-120.0,Non-Peak,Clear,Delayed
+J00465,2026-09-07,Western,Slow,Andheri,Borivali,12.3,22:46,22:47,1,1659.0,Non-Peak,Clear,On-Time/Minor Delay
+J00774,2026-07-11,Central,Slow,CSMT,Kalyan,54.1,16:18,16:20,2,1095.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00245,2026-08-26,Central,Slow,Thane,Kalyan,21.5,18:48,18:52,4,2481.0,Peak,Clear,On-Time/Minor Delay
+J00589,2026-10-08,Western,Slow,Borivali,Virar,19.9,20:04,20:07,3,1797.0,Peak,Clear,On-Time/Minor Delay
+J00208,2026-10-06,Western,Slow,Borivali,Virar,19.2,12:08,12:14,6,991.0,Non-Peak,Clear,Delayed
+J00090,2026-09-28,Western,Slow,Churchgate,Virar,61.4,19:44,19:45,1,1773.0,Peak,Cloudy,On-Time/Minor Delay
+J00352,2026-09-28,Central,Slow,CSMT,Thane,34.2,17:52,17:56,4,2437.0,Peak,Light Rain,On-Time/Minor Delay
+J00337,2026-08-19,Central,Fast,CSMT,Kalyan,53.0,18:26,18:28,2,1694.0,Peak,Clear,On-Time/Minor Delay
+J00704,2026-09-30,Central,Slow,Kurla,Kalyan,38.3,23:34,23:36,2,1199.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00233,2026-09-13,Central,Slow,CSMT,Thane,34.3,20:12,20:16,4,2922.0,Peak,Clear,On-Time/Minor Delay
+J00897,2026-08-18,Western,Slow,Churchgate,Virar,61.2,07:50,07:52,2,2375.0,Peak,Rain,On-Time/Minor Delay
+J00853,2026-09-15,Central,Slow,CSMT,Dombivli,49.9,18:40,18:43,3,2004.0,Peak,Cloudy,On-Time/Minor Delay
+J00684,2026-10-09,Western,Slow,Churchgate,Borivali,35.3,10:12,10:17,5,1483.0,Non-Peak,Heavy Rain,Delayed
+J00788,2026-07-05,Harbour,Fast,CSMT,Panvel,50.6,10:06,10:12,6,1214.0,Non-Peak,Clear,Delayed
+J00235,2026-10-01,Central,Slow,Dadar,Thane,25.7,10:56,10:56,0,1488.0,Non-Peak,Clear,On-Time/Minor Delay
+J00193,2026-09-07,Western,Slow,Dadar,Borivali,22.7,09:30,09:30,0,1430.0,Peak,Clear,On-Time/Minor Delay
+J00501,2026-08-11,Harbour,Fast,Vashi,Panvel,24.0,19:36,19:38,2,3298.0,Peak,Cloudy,On-Time/Minor Delay
+J00047,2026-10-04,Harbour,Fast,CSMT,Vashi,24.9,08:32,08:33,1,1390.0,Peak,Clear,On-Time/Minor Delay
+J00520,2026-07-09,Harbour,Slow,Bandra,Panvel,36.2,12:18,12:18,0,819.0,Non-Peak,Clear,On-Time/Minor Delay
+J00620,2026-10-04,Central,Slow,CSMT,Thane,34.1,10:42,10:44,2,1336.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00872,2026-09-09,Central,Slow,CSMT,Thane,33.2,08:34,08:39,5,1884.0,Peak,Clear,Delayed
+J00765,2026-10-06,Western,Fast,Andheri,Borivali,12.0,11:56,11:59,3,1635.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00430,2026-08-29,Western,Slow,Dadar,Borivali,22.9,19:18,19:21,3,899.0,Peak,Cloudy,On-Time/Minor Delay
+J00293,2026-08-16,Central line,Slow,Borivali,Virar,18.7,12:10,12:11,1,1440.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00646,2026-07-15,Central,Slow,CSMT,Dombivli,47.9,10:50,10:51,1,1201.0,Non-Peak,Clear,On-Time/Minor Delay
+J00806,2026-08-03,Western,Slow,Churchgate,Borivali,33.6,16:46,16:48,2,952.0,Non-Peak,Clear,On-Time/Minor Delay
+J00204,2026-07-27,Western,Slow,Dadar,Borivali,21.8,07:12,07:13,1,1098.0,Peak,Clear,On-Time/Minor Delay
+J00101,2026-08-25,Central,Slow,CSMT,Thane,33.7,19:08,19:11,3,1959.0,Peak,Clear,On-Time/Minor Delay
+J00176,2026-09-17,Western,Slow,Bandra,Virar,50.2,20:48,20:51,3,1946.0,Peak,Light Rain,On-Time/Minor Delay
+J00200,2026-07-03,Central,Slow,Thane,Kalyan,21.4,09:34,09:35,1,2058.0,Peak,Cloudy,On-Time/Minor Delay
+J00720,2026-08-15,Central,Slow,CSMT,Thane,34.1,18:58,19:02,4,2215.0,Peak,Cloudy,On-Time/Minor Delay
+J00865,2026-07-11,Central,Fast,CSMT,Kalyan,52.3,07:02,07:10,8,2175.0,Peak,Heavy Rain,Delayed
+J00528,2026-09-01,Central,Fast,Thane,Kalyan,21.4,12:02,12:05,3,1227.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00907,2026-07-11,Central,Slow,CSMT,Thane,31.7,08:52,08:56,4,1914.0,Peak,Cloudy,On-Time/Minor Delay
+J00137,2026-08-01,Western,Slow,Churchgate,Borivali,33.5,12:20,12:25,5,2464.0,Non-Peak,Light Rain,Delayed
+J00628,2026-09-06,Central,Fast,Thane,Kalyan,21.1,22:54,22:56,2,927.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00159,2026-09-26,Harbour,Slow,Bandra,Panvel,36.2,08:36,08:42,6,1566.0,Peak,Light Rain,Delayed
+J00609,2026-07-31,Western,Slow,Churchgate,Virar,61.9,17:14,17:16,2,2642.0,Peak,Clear,On-Time/Minor Delay
+J00286,2026-07-18,Western,Slow,Bandra,Virar,47.3,08:12,08:18,6,2237.0,Peak,Light Rain,Delayed
+J00218,2026-08-25,Central,Slow,Thane,Kalyan,21.5,20:16,20:26,10,2479.0,Peak,Heavy Rain,Delayed
+J00170,2026-07-23,Western,Slow,Churchgate,Borivali,34.9,19:42,19:42,0,1507.0,Peak,Cloudy,On-Time/Minor Delay
+J00368,2026-09-04,Western,Slow,Bandra,Virar,47.7,08:46,08:49,3,2131.0,Peak,Cloudy,On-Time/Minor Delay
+J00832,2026-09-11,Western,Slow,Churchgate,Borivali,35.3,18:00,18:03,3,2224.0,Peak,Clear,On-Time/Minor Delay
+J00567,2026-09-23,Central,Slow,Dadar,Thane,25.5,19:32,19:38,6,1673.0,Peak,Cloudy,Delayed
+J00487,2026-08-28,Central,Fast,Thane,Kalyan,21.6,07:44,07:45,1,2538.0,Peak,,On-Time/Minor Delay
+J00816,2026-09-06,Western,Slow,Churchgate,Virar,59.4,08:32,08:35,3,1681.0,Peak,Light Rain,On-Time/Minor Delay
+J00300,2026-07-17,Harbour,Fast,Vashi,Panvel,24.4,16:04,16:04,0,1028.0,Non-Peak,Clear,On-Time/Minor Delay
+J00290,2026-09-12,Central,Slow,CSMT,Kalyan,52.3,11:34,11:35,1,1435.0,Non-Peak,Clear,On-Time/Minor Delay
+J00744,2026-07-26,Central,Slow,Thane,Kalyan,21.6,13:52,13:53,1,1149.0,Non-Peak,Clear,On-Time/Minor Delay
+J00387,2026-08-26,Central,Slow,CSMT,Dombivli,48.2,16:22,16:23,1,851.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00154,2026-07-26,Western,Fast,Andheri,Borivali,12.3,17:20,17:22,2,2177.0,Peak,Clear,On-Time/Minor Delay
+J00276,2026-07-14,Western,Slow,Bandra,Virar,49.9,17:34,17:38,4,2475.0,Peak,Light Rain,On-Time/Minor Delay
+J00004,2026-07-18,Central,Slow,CSMT,Thane,33.2,15:56,15:56,0,1378.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00066,2026-09-09,Western,Slow,Churchgate,Borivali,35.2,18:20,18:24,4,1989.0,Peak,Clear,On-Time/Minor Delay
+J00835,2026-07-11,Central,Slow,CSMT,Thane,32.1,18:36,18:37,1,1417.0,Peak,Clear,On-Time/Minor Delay
+J00410,2026-08-16,Central,Fast,Thane,Kalyan,20.5,05:28,05:37,9,1990.0,Non-Peak,Heavy Rain,Delayed
+J00927,2026-07-03,Western,Slow,Andheri,Borivali,12.9,21:12,21:13,1,1213.0,Non-Peak,Clear,On-Time/Minor Delay
+J00280,2026-08-27,Western,Slow,Churchgate,Virar,58.0,08:56,09:02,6,1423.0,Peak,Cloudy,Delayed
+J00817,2026-08-25,Harbour,Fast,CSMT,Vashi,23.8,07:32,07:33,1,1995.0,Peak,Clear,On-Time/Minor Delay
+J00118,2026-08-10,Central,Fast,Thane,Kalyan,21.6,20:56,20:59,3,2222.0,Peak,Clear,On-Time/Minor Delay
+J00110,2026-08-31,Western,Slow,Andheri,Borivali,12.5,10:56,10:58,2,1380.0,Non-Peak,Clear,On-Time/Minor Delay
+J00736,2026-08-21,Harbour,Slow,CSMT,Panvel,48.6,16:08,16:11,3,1023.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00874,2026-07-23,Central,Slow,Kurla,Kalyan,37.7,15:32,15:32,0,751.0,Non-Peak,Clear,On-Time/Minor Delay
+J00146,2026-08-15,Central,Fast,CSMT,Thane,33.7,16:10,16:11,1,973.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00490,2026-07-30,Western,Slow,Churchgate,Borivali,34.2,08:58,09:00,2,,Peak,Clear,On-Time/Minor Delay
+J00348,2026-09-08,Western,Slow,Borivali,Virar,19.4,16:42,16:45,3,1944.0,Non-Peak,Clear,On-Time/Minor Delay
+J00064,2026-09-05,Western,Slow,Bandra,Virar,48.7,13:34,13:35,1,395.0,Non-Peak,Clear,On-Time/Minor Delay
+J00095,2026-09-12,Western,Fast,Churchgate,Virar,58.8,20:32,20:39,7,2854.0,Peak,Clear,Delayed
+J00431,2026-08-08,Western,Fast,Bandra,Virar,47.5,14:26,14:26,0,1595.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00888,2026-09-10,Western,Slow,Borivali,Virar,19.3,19:42,19:44,2,2124.0,Peak,Clear,On-Time/Minor Delay
+J00382,2026-07-29,Western,Slow,Churchgate,Borivali,34.3,20:16,20:17,1,2776.0,Peak,Clear,On-Time/Minor Delay
+J00327,2026-08-23,Central,Fast,CSMT,Kalyan,54.3,06:36,06:36,0,1361.0,Non-Peak,Clear,On-Time/Minor Delay
+J00392,2026-07-30,Central,Fast,CSMT,Kalyan,55.4,16:38,16:40,2,1087.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00398,2026-09-19,Harbour,Slow,Bandra,Panvel,37.0,06:14,06:17,3,784.0,Non-Peak,Clear,On-Time/Minor Delay
+J00687,2026-09-06,Western,Slow,Andheri,Borivali,12.6,15:32,15:32,0,1507.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00189,2026-09-18,Harbour,Slow,Andheri,Panvel,33.0,13:14,13:16,2,2251.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00667,2026-09-14,Western,Slow,Churchgate,Borivali,33.2,18:24,18:31,7,1986.0,Peak,Clear,Delayed
+J00060,2026-09-20,Western,Fast,Churchgate,Virar,61.6,18:16,18:18,2,1816.0,Peak,Clear,On-Time/Minor Delay
+J00783,2026-09-21,Central,Slow,Dadar,Thane,25.7,08:34,08:37,3,2382.0,Peak,Cloudy,On-Time/Minor Delay
+J00268,2026-08-26,Western,Slow,Borivali,Virar,18.9,19:42,19:47,5,2145.0,Peak,Cloudy,Delayed
+J00043,2026-10-08,Central,Fast,CSMT,Thane,33.9,15:18,15:18,0,823.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00558,2026-08-04,Western,Fast,Churchgate,Borivali,34.2,16:12,16:12,0,1376.0,Non-Peak,Clear,On-Time/Minor Delay
+J00342,2026-09-13,Central,Slow,CSMT,Thane,33.6,09:00,09:04,4,1617.0,Peak,Clear,On-Time/Minor Delay
+J00226,2026-08-21,Harbour,Slow,Vashi,Panvel,24.5,06:00,06:01,1,1190.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00252,2026-07-21,Western,Slow,Dadar,Borivali,22.6,08:32,08:35,3,1585.0,Peak,Clear,On-Time/Minor Delay
+J00908,2026-09-21,Western,Slow,Churchgate,Borivali,35.0,06:08,06:13,5,,Non-Peak,Clear,Delayed
+J00640,2026-08-26,Central,Fast,Kurla,Kalyan,39.8,14:44,14:50,6,685.0,Non-Peak,Heavy Rain,Delayed
+J00446,2026-08-15,WESTERN ,Slow,Churchgate,Virar,58.2,06:10,06:11,1,426.0,Non-Peak,Clear,On-Time/Minor Delay
+J00310,2026-09-17,Western,Slow,Andheri,Borivali,12.0,17:40,17:43,3,1391.0,Peak,Light Rain,On-Time/Minor Delay
+J00169,2026-07-15,Central,Slow,Dadar,Thane,25.1,17:52,17:55,3,1357.0,Peak,Cloudy,On-Time/Minor Delay
+J00513,2026-07-15,Central,Slow,CSMT,Kalyan,55.5,19:32,19:35,68,2089.0,Peak,Clear,On-Time/Minor Delay
+J00630,2026-08-23,Central,Slow,CSMT,Dombivli,49.7,19:02,19:04,2,2119.0,Peak,Clear,On-Time/Minor Delay
+J00124,2026-07-24,Central,Slow,CSMT,Dombivli,47.0,17:30,17:34,4,1970.0,Peak,Light Rain,On-Time/Minor Delay
+J00886,2026-09-06,Central,Fast,CSMT,Kalyan,52.4,20:04,20:10,6,2006.0,Peak,Heavy Rain,Delayed
+J00362,2026-07-29,Central,Slow,Kurla,Kalyan,39.2,07:38,07:45,7,1542.0,Peak,Clear,Delayed
+J00480,2026-08-06,Western,Fast,Churchgate,Borivali,34.9,19:16,19:16,0,2126.0,Peak,Cloudy,On-Time/Minor Delay
+J00229,2026-08-11,Harbour,Fast,Bandra,Panvel,38.4,20:56,21:01,5,3095.0,Peak,Cloudy,Delayed
+J00356,2026-07-05,Western,Slow,Borivali,Virar,18.8,11:30,11:32,2,819.0,Non-Peak,Clear,On-Time/Minor Delay
+J00515,2026-09-23,Central,Slow,Thane,Kalyan,21.3,10:18,10:22,4,1070.0,Non-Peak,Clear,On-Time/Minor Delay
+J00950,2026-07-17,Central,Slow,CSMT,Dombivli,49.0,09:12,09:20,8,1689.0,Peak,Clear,Delayed
+J00224,2026-09-22,Western,Fast,Dadar,Borivali,21.3,18:30,18:36,6,1846.0,Peak,Light Rain,Delayed
+J00134,2026-07-01,Harbour,Fast,Andheri,Panvel,33.1,20:50,20:53,3,1994.0,Peak,Clear,On-Time/Minor Delay
+J00338,2026-09-01,Central,Fast,Dadar,Thane,24.3,05:46,05:49,3,1559.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00701,2026-10-07,Central,Slow,Dadar,Thane,26.0,22:22,22:25,3,2036.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00719,2026-07-01,Harbour,Slow,CSMT,Panvel,49.8,18:52,18:58,6,1839.0,Peak,Clear,Delayed
+J00221,2026-07-30,Western,Slow,Dadar,Borivali,22.0,16:06,16:09,3,884.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00456,2026-10-06,Harbour,Slow,CSMT,Panvel,47.9,07:44,07:48,4,1518.0,Peak,Clear,On-Time/Minor Delay
+J00824,2026-09-18,Harbour,Slow,Andheri,Panvel,31.2,08:10,08:13,3,1434.0,Peak,Clear,On-Time/Minor Delay
+J00576,2026-07-19,Central,Slow,Dadar,Thane,24.9,16:38,16:42,4,1086.0,Non-Peak,Clear,On-Time/Minor Delay
+J00839,2026-09-28,Western,Slow,Bandra,Virar,49.5,10:32,10:36,4,1613.0,Non-Peak,,On-Time/Minor Delay
+J00653,2026-09-26,Central,Slow,Thane,Kalyan,21.4,17:06,17:07,1,1708.0,Peak,Cloudy,On-Time/Minor Delay
+J00277,2026-09-14,Harbour,Fast,CSMT,Panvel,47.1,23:40,23:40,0,,Non-Peak,Cloudy,On-Time/Minor Delay
+J00690,2026-07-18,Central,Slow,Thane,Kalyan,21.3,18:12,18:17,5,2947.0,Peak,Cloudy,Delayed
+J00565,2026-07-23,Western,Fast,Dadar,Borivali,22.6,08:52,08:53,1,1921.0,Peak,,On-Time/Minor Delay
+J00181,2026-02-30,Central,Slow,CSMT,Thane,33.2,08:06,08:08,2,1899.0,Peak,Clear,On-Time/Minor Delay
+J00204,2026-07-27,Western,Slow,Dadar,Borivali,21.8,07:12,07:13,1,1098.0,Peak,Clear,On-Time/Minor Delay
+J00624,2026-08-18,Western,Fast,Churchgate,Virar,61.0,09:40,09:43,3,2271.0,Peak,Clear,On-Time/Minor Delay
+J00773,2026-08-12,Central,Fast,Kurla,Kalyan,39.8,07:12,07:13,1,1534.0,Peak,Clear,On-Time/Minor Delay
+J00756,2026-10-03,Western,Fast,Borivali,Virar,19.4,19:30,19:34,4,1482.0,Peak,Clear,On-Time/Minor Delay
+J00629,2026-09-29,Central,Slow,Dadar,Thane,25.0,13:06,13:10,4,656.0,Off Peak,Clear,On-Time/Minor Delay
+J00760,2026-08-02,Western,Fast,Andheri,Borivali,12.4,08:36,08:36,0,3041.0,Peak,Clear,On-Time/Minor Delay
+J00757,2026-08-25,Central,Fast,Kurla,Kalyan,37.5,23:08,23:09,1,1101.0,peak,Light Rain,On-Time/Minor Delay
+J00506,2026-09-28,Harbour,Slow,Bandra,Panvel,36.8,10:40,10:45,5,1647.0,Non-Peak,Clear,Delayed
+J00831,2026-08-07,Western,Fast,Andheri,Borivali,12.5,08:42,08:47,5,2542.0,Peak,Light Rain,Delayed
+J00377,2026-09-27,Western,Slow,Dadar,Borivali,21.3,21:58,22:01,3,2086.0,Non-Peak,Clear,On-Time/Minor Delay
+J00334,2026-07-26,Western,Slow,Andheri,Borivali,12.5,16:10,16:11,1,2128.0,Non-Peak,Clear,On-Time/Minor Delay
+J00331,2026-07-28,Western,Slow,Dadar,Borivali,22.4,21:48,21:51,3,1765.0,Non-Peak,Clear,On-Time/Minor Delay
+J00683,2026-07-23,Central,Fast,Thane,Kalyan,20.2,19:34,19:35,1,3124.0,Peak,Cloudy,On-Time/Minor Delay
+J00948,2026-08-28,Western,Fast,Borivali,Virar,19.4,23:00,23:03,3,1730.0,Non-Peak,Clear,On-Time/Minor Delay
+J00582,2026-08-16,Western,Fast,Churchgate,Virar,61.8,12:08,12:09,1,338.0,Non-Peak,Clear,On-Time/Minor Delay
+J00849,2026-10-05,Central,Slow,CSMT,Kalyan,53.8,13:44,13:44,0,368.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00470,2026-08-06,Western,Fast,Borivali,Virar,18.8,14:02,14:04,2,2512.0,Non-Peak,Clear,On-Time/Minor Delay
+J00213,2026-08-24,Harbour,Slow,CSMT,Panvel,48.6,21:32,21:35,3,1257.0,Non-Peak,,On-Time/Minor Delay
+J00031,2026-09-03,Western,Slow,Bandra,Virar,49.7,12:10,12:11,1,898.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00215,2026-07-30,Western,Slow,Churchgate,Borivali,33.8,09:56,09:58,2,1728.0,Peak,Clear,On-Time/Minor Delay
+J00260,2026-09-11,Western,Slow,Bandra,Virar,50.4,18:56,19:02,6,2782.0,Peak,Cloudy,Delayed
+J00162,2026-10-09,Western,Fast,Churchgate,Virar,59.0,08:32,08:35,3,1770.0,Peak,Clear,On-Time/Minor Delay
+J00892,2026-07-14,Harbour,Slow,Andheri,Panvel,31.7,22:38,22:39,1,1018.0,Non-Peak,Clear,On-Time/Minor Delay
+J00844,2026-07-30,Western,Fast,Bandra,Virar,48.4,22:08,22:11,3,1089.0,Non-Peak,Clear,On-Time/Minor Delay
+J00843,2026-08-04,Western,Slow,Churchgate,Borivali,33.7,18:42,18:45,3,2765.0,Peak,Clear,On-Time/Minor Delay
+J00818,2026-08-18,Harbour,Slow,Andheri,Panvel,33.0,12:48,12:49,1,1650.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00512,2026-08-30,Central,Fast,Dadar,Thane,25.6,19:50,19:52,2,1822.0,Peak,Clear,On-Time/Minor Delay
+J00780,2026-07-14,Central,Fast,Dadar,Thane,25.7,16:30,16:30,0,1451.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00009,2026-10-08,Central,Fast,CSMT,Kalyan,54.2,20:24,20:25,1,1357.0,Peak,Cloudy,On-Time/Minor Delay
+J00109,2026-08-24,Harbour,Fast,Bandra,Panvel,36.6,21:50,21:50,0,998.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00533,2026-07-08,Western,Slow,Dadar,Borivali,21.3,19:14,19:17,3,2735.0,Peak, clear ,On-Time/Minor Delay
+J00246,2026-07-22,Central,Fast,CSMT,Dombivli,47.4,13:44,13:45,1,796.0,Non-Peak,Clear,On-Time/Minor Delay
+J00568,2026-09-27,Western,Fast,Dadar,Borivali,21.8,14:28,14:30,2,1620.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00860,2026-09-21,Western,Slow,Andheri,Borivali,12.7,08:22,08:24,2,1665.0,Peak,Clear,On-Time/Minor Delay
+J00244,2026-07-18,Central,Slow,Kurla,Kalyan,40.3,07:16,07:19,3,2575.0,Peak,Clear,On-Time/Minor Delay
+J00436,2026-07-20,Central,Slow,CSMT,Thane,33.2,21:04,21:05,1,818.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00662,2026-07-04,Central,Slow,CSMT,Dombivli,48.5,23:52,23:56,4,971.0,Non-Peak,Clear,On-Time/Minor Delay
+J00504,2026-07-14,Central,Fast,Dadar,Thane,25.6,11:50,11:50,0,681.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00171,2026-09-26,Central,Fast,CSMT,Thane,32.3,22:08,22:11,3,645.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00188,2026-09-14,Western,Slow,Churchgate,Borivali,33.7,08:38,08:40,2,2696.0,Peak,Clear,On-Time/Minor Delay
+J00525,2026-09-21,Western,Slow,Dadar,Borivali,21.8,20:28,20:33,5,2881.0,Peak,Cloudy,Delayed
+J00940,2026-07-05,Harbour,Slow,Andheri,Panvel,31.4,09:24,09:25,1,2321.0,Peak,Cloudy,On-Time/Minor Delay
+J00190,2026-09-05,Western,Fast,Dadar,Borivali,22.4,18:22,18:28,6,2539.0,Peak,,Delayed
+J00863,2026-08-23,Western,Slow,Borivali,Virar,19.1,17:10,17:10,0,2542.0,Peak,Cloudy,On-Time/Minor Delay
+J00787,2026-08-26,Central,Slow,Kurla,Kalyan,38.1,09:20,09:21,1,2668.0,Peak,Clear,On-Time/Minor Delay
+J00827,2026-10-03,Central,Slow,Thane,Kalyan,20.5,15:32,15:34,2,447.0,Non-Peak,Clear,On-Time/Minor Delay
+J00840,2026-08-13,Harbour,Fast,CSMT,Panvel,47.5,12:32,12:32,0,2113.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00178,2026-09-21,Western,Slow,Churchgate,Borivali,33.0,13:20,,2,658.0,Non-Peak,Clear,On-Time/Minor Delay
+J00065,2026-07-03,Central,Fast,Kurla,Kalyan,40.4,16:08,16:09,1,989.0,Non-Peak,Clear,On-Time/Minor Delay
+J00396,2026-09-27,Harbour,Fast,Andheri,Panvel,30.9,09:16,09:18,2,1560.0,Peak,Cloudy,On-Time/Minor Delay
+J00584,2026-07-31,Central,Slow,CSMT,Kalyan,55.9,19:46,19:51,5,2473.0,Peak,Cloudy,Delayed
+J00087,2026-09-28,Western,Slow,Bandra,Virar,46.8,25:73,22:50,2,1109.0,Non-Peak,Clear,On-Time/Minor Delay
+J00113,2026-07-24,Western,Slow,Churchgate,Virar,61.5,21:02,21:04,2,1389.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00776,2026-08-29,Harbour,Slow,Bandra,Panvel,37.7,18:50,18:55,5,1286.0,Peak,Cloudy,Delayed
+J00621,2026-09-26,Harbour,Slow,CSMT,Panvel,50.2,18:36,18:38,2,2419.0,Peak,Cloudy,On-Time/Minor Delay
+J00049,2026-07-06,Central,Slow,Dadar,Thane,26.0,18:40,18:42,2,791.0,Peak,Light Rain,On-Time/Minor Delay
+J00650,2026-08-15,Western,Slow,Churchgate,Virar,60.5,17:36,17:37,1,2356.0,Peak,Cloudy,On-Time/Minor Delay
+J00068,2026-08-10,Western,Slow,Churchgate,Borivali,33.4,18:40,18:41,1,2278.0,Peak,Clear,On-Time/Minor Delay
+J00243,10-45-2026,Harbour,Slow,Bandra,Panvel,35.9,08:06,08:11,5,2406.0,Peak,Light Rain,Delayed
+J00858,2026-07-05,Central,Slow,CSMT,Dombivli,46.4,20:32,20:37,5,2520.0,Peak,Light Rain,Delayed
+J00340,2026-08-12,Western,Slow,Dadar,Borivali,22.0,14:38,14:42,4,1653.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00479,2026-07-21,Western,Slow,Bandra,Virar,47.5,19:34,19:35,1,1336.0,Peak,Cloudy,On-Time/Minor Delay
+J00106,2026-09-17,Western,Slow,Bandra,Virar,50.3,19:06,19:10,4,1848.0,Peak,Light Rain,On-Time/Minor Delay
+J00485,2026-08-29,Harbour,Fast,Andheri,Panvel,33.1,18:44,18:48,4,1324.0,Peak,Clear,On-Time/Minor Delay
+J00444,2026-08-24,Western,Slow,Borivali,Virar,19.8,09:06,09:08,2,1816.0,Peak,Clear,On-Time/Minor Delay
+J00292,2026-07-11,Western,Slow,Bandra,Virar,49.7,20:12,20:16,4,1452.0,Peak,Clear,On-Time/Minor Delay
+J00778,2026-07-06,Central,Slow,CSMT,Kalyan,52.4,06:24,06:24,0,1078.0,Non-Peak,Clear,On-Time/Minor Delay
+J00374,2026-08-03,Western,Fast,Borivali,Virar,18.8,21:18,21:18,0,1063.0,Non-Peak,,On-Time/Minor Delay
+J00055,2026-08-22,Western,Slow,Dadar,Borivali,22.1,09:14,09:17,3,2826.0,Peak,Cloudy,On-Time/Minor Delay
+J00936,2026-07-14,Harbour,Slow,CSMT,Panvel,48.6,19:50,19:56,6,3180.0,NON-PEAK ,Clear,Delayed
+J00678,2026-07-06,Harbour,Slow,Vashi,Panvel,25.0,21:34,21:36,2,1132.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00393,2026-09-07,Western,Fast,Bandra,Virar,49.3,18:28,18:31,3,2616.0,Peak,Clear,On-Time/Minor Delay
+J00625,2026-07-19,Harbour,Slow,Andheri,Panvel,32.2,09:50,09:55,5,2712.0,Peak,Light Rain,Delayed
+J00577,2026-09-29,Harbour,Slow,Vashi,Panvel,24.5,09:48,09:50,2,2607.0,Peak,Clear,On-Time/Minor Delay
+J00916,2026-07-19,Western,Fast,Churchgate,Borivali,33.5,16:06,16:12,6,1811.0,Non-Peak,Heavy Rain,Delayed
+J00147,2026-10-06,Western,Fast,Andheri,Borivali,12.8,08:22,08:25,3,2844.0,Peak,Cloudy,On-Time/Minor Delay
+J00848,2026-08-20,Western,Slow,Churchgate,Virar,62.0,18:44,18:47,3,2225.0,Peak,Cloudy,On-Time/Minor Delay
+J00594,2026-09-14,Central,Slow,Kurla,Kalyan,40.2,13:12,13:14,2,1231.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00239,2026-09-27,Western,Fast,Borivali,Virar,19.4,16:26,16:26,0,481.0,Non-Peak,Clear,On-Time/Minor Delay
+J00913,2026-09-27,Central,Slow,Kurla,Kalyan,37.4,07:12,07:13,1,2373.0,Peak,Light Rain,On-Time/Minor Delay
+J00911,2026-09-14,Western,Fast,Dadar,Borivali,22.2,17:28,17:28,0,2530.0,Peak,Light Rain,On-Time/Minor Delay
+J00685,2026-09-20,Western,Slow,Churchgate,Borivali,34.3,09:54,10:01,7,2409.0,Peak,Heavy Rain,Delayed
+J00802,2026-07-14,Western,Fast,Churchgate,Virar,61.6,12:36,12:37,1,1658.0,Non-Peak,Clear,On-Time/Minor Delay
+J00740,2026-10-09,Western,Slow,Churchgate,Borivali,33.4,07:34,07:35,1,3236.0,Peak,Cloudy,On-Time/Minor Delay
+J00421,2026-08-23,Central,Slow,CSMT,Thane,32.6,20:34,20:35,1,2047.0,Peak,Clear,On-Time/Minor Delay
+J00509,2026-10-02,Central,Fast,CSMT,Kalyan,54.5,18:56,18:57,1,991.0,Peak,Cloudy,On-Time/Minor Delay
+J00202,2026-07-23,Harbour,Slow,Vashi,Panvel,25.0,10:00,10:02,2,1697.0,Non-Peak,Clear,On-Time/Minor Delay
+J00694,2026-07-11,Western,Slow,Dadar,Borivali,22.0,18:56,19:00,4,2488.0,Peak,Clear,On-Time/Minor Delay
+J00067,2026-07-03,Harbour,Slow,Andheri,Panvel,31.8,21:00,21:00,0,1473.0,Non-Peak,Clear,On-Time/Minor Delay
+J00821,2026-07-25,Central,Slow,CSMT,Kalyan,55.4,20:16,20:21,5,1523.0,Peak,Clear,Delayed
+J00141,2026-08-21,Central,Slow,CSMT,Thane,34.1,19:22,19:24,2,1944.0,Peak,Clear,On-Time/Minor Delay
+J00673,2026-08-06,Central,Slow,CSMT,Thane,33.2,19:40,19:43,3,2358.0,Peak, clear ,On-Time/Minor Delay
+J00909,2026-08-04,Western,Slow,Dadar,Borivali,21.8,13:50,13:50,0,2007.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00768,2026-09-27,Harbour,Slow,CSMT,Vashi,23.3,14:52,14:54,2,756.0,Non-Peak,Clear,On-Time/Minor Delay
+J00295,2026-07-20,Western,Fast,Borivali,Virar,18.9,05:02,05:03,1,2104.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00537,2026-08-20,Central,Slow,Dadar,Thane,25.6,10:28,10:34,6,744.0,Non-Peak,Light Rain,Delayed
+J00273,2026-09-18,Western,Slow,Dadar,Borivali,21.4,11:24,11:28,4,851.0,Non-Peak,Clear,On-Time/Minor Delay
+J00332,2026-09-05,Harbour,Slow,Andheri,Panvel,33.1,19:52,19:57,5,2304.0,Peak,Clear,Delayed
+J00164,2026-07-10,Harbour,Slow,Bandra,Panvel,36.7,18:58,19:07,9,1903.0,Peak,Heavy Rain,Delayed
+J00759,2026-09-27,Central,Slow,Kurla,Kalyan,37.6,19:08,19:11,3,3503.0,Peak,Clear,On-Time/Minor Delay
+J00570,2026-09-07,Western,Fast,Dadar,Borivali,22.0,18:36,18:36,0,1749.0,Peak,Cloudy,On-Time/Minor Delay
+J00710,2026-09-15,Western,Fast,Borivali,Virar,19.4,21:04,21:06,2,1862.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00191,2026-09-19,Central,Slow,CSMT,Dombivli,47.1,18:46,18:47,1,2344.0,Peak,Clear,On-Time/Minor Delay
+J00905,2026-09-12,Central,Fast,Thane,Kalyan,20.0,15:56,16:00,4,1037.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00666,2026-07-08,Harbour,Fast,CSMT,Panvel,49.1,20:22,20:28,6,1597.0,Peak,Clear,Delayed
+J00152,2026-07-04,Central,Fast,Thane,Kalyan,21.3,20:22,20:25,3,2262.0,Peak,Cloudy,On-Time/Minor Delay
+J00642,2026-09-21,Central,Slow,CSMT,Kalyan,53.9,20:02,20:02,-5,2421.0,Peak,Clear,On-Time/Minor Delay
+J00834,2026-08-05,Central,Fast,CSMT,Kalyan,53.2,09:34,09:37,3,1655.0,Peak,Cloudy,On-Time/Minor Delay
+J00263,2026-08-29,Central,Slow,Thane,Kalyan,21.5,11:18,11:20,2,907.0,Non-Peak,Clear,On-Time/Minor Delay
+J00851,2026-08-31,Central,Fast,CSMT,Kalyan,53.9,08:42,08:42,0,2813.0,Peak,Clear,On-Time/Minor Delay
+J00764,2026-07-28,Western,Fast,Dadar,Borivali,21.5,09:18,09:18,0,1852.0,Peak,Clear,On-Time/Minor Delay
+J00110,2026-08-31,Western,Slow,Andheri,Borivali,12.5,10:56,10:58,2,1380.0,Non-Peak,Clear,On-Time/Minor Delay
+J00793,2026-07-12,Western,Fast,Churchgate,Virar,59.3,09:14,09:17,3,1690.0,Peak,Cloudy,On-Time/Minor Delay
+J00613,2026-07-18,Harbour,Fast,Bandra,Panvel,36.1,20:24,20:24,0,1642.0,Peak,Light Rain,On-Time/Minor Delay
+J00249,2026-08-16,Central,Slow,CSMT,Dombivli,49.2,19:42,19:45,3,1824.0,Peak,Cloudy,On-Time/Minor Delay
+J00069,2026-08-17,Western,Fast,Bandra,Virar,48.4,16:24,16:26,2,997.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00539,2026-08-16,Western,Slow,Churchgate,Borivali,35.1,07:08,07:13,5,2400.0,Peak,Light Rain,Delayed
+J00036,2026-09-16,Western,Fast,Dadar,Borivali,21.4,18:12,18:13,1,1844.0,Peak,Clear,On-Time/Minor Delay
+J00495,2026-09-20,Central,Fast,CSMT,Thane,32.5,12:26,12:29,3,250.0,Non-Peak,Clear,On-Time/Minor Delay
+J00100,2026-09-23,Harbour,Slow,CSMT,Vashi,24.4,21:54,21:56,2,1008.0,Non-Peak,Clear,On-Time/Minor Delay
+J00695,2026-07-22,Harbour,Fast,Andheri,Panvel,33.2,19:58,20:01,35,1619.0,Peak,Clear,On-Time/Minor Delay
+J00247,2026-08-25,Central,Slow,CSMT,Kalyan,55.8,20:20,20:22,2,3489.0,Peak,Cloudy,On-Time/Minor Delay
+J00679,2026-07-26,Western,Fast,Churchgate,Borivali,35.2,11:42,11:45,3,1238.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00752,2026-07-25,Central,Fast,Kurla,Kalyan,40.1,20:52,20:55,3,1858.0,Peak,Clear,On-Time/Minor Delay
+J00425,2026-07-23,Western,Fast,Churchgate,Virar,59.0,20:22,20:23,1,2597.0,Peak,Clear,On-Time/Minor Delay
+J00175,2026-07-06,Western,Slow,Borivali,Virar,18.9,21:52,21:54,2,1625.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00155,2026-10-09,Central,Slow,CSMT,Thane,33.4,16:32,16:36,4,1491.0,Non-Peak,Clear,On-Time/Minor Delay
+J00779,2026-07-29,Harbour,Slow,CSMT,Panvel,49.7,09:34,09:39,5,2273.0,Peak,Rain,Delayed
+J00666,2026-07-08,Harbour,Fast,CSMT,Panvel,49.1,20:22,20:28,6,1597.0,Peak,Clear,Delayed
+J00029,2026-09-29,Central,Fast,CSMT,Thane,33.6,21:30,21:31,1,2570.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00085,2026-09-24,Harbour,Slow,Andheri,Panvel,33.2,07:08,07:13,5,2778.0,Peak,Clear,Delayed
+J00870,2026-09-30,Harbour,Slow,Vashi,Panvel,24.7,07:16,07:19,3,1823.0,Peak,Clear,On-Time/Minor Delay
+J00580,2026-07-15,Western,Slow,Dadar,Borivali,21.9,21:56,22:01,5,826.0,Non-Peak,Heavy Rain,Delayed
+J00194,2026-08-07,Harbour,Slow,Andheri,Panvel,31.2,09:12,09:16,4,1985.0,Peak,Clear,On-Time/Minor Delay
+J00343,2026-09-26,Western,Slow,Churchgate,Virar,61.6,16:08,16:09,1,1319.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00108,2026-09-22,Central,Slow,Dadar,Thane,25.4,17:20,17:22,2,1693.0,Peak,Clear,On-Time/Minor Delay
+J00228,2026-08-26,Central,Slow,CSMT,Kalyan,54.1,15:54,15:55,1,1131.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00939,2026-07-21,Harbour,Slow,CSMT,Panvel,48.2,07:42,07:45,3,1302.0,Peak,Cloudy,On-Time/Minor Delay
+J00014,2026-10-01,Central,Slow,Kurla,Kalyan,39.3,19:56,19:58,2,1862.0,Peak,Cloudy,On-Time/Minor Delay
+J00079,2026-07-31,Central,Slow,Thane,Kalyan,21.2,08:14,08:15,1,2211.0,Peak,Cloudy,On-Time/Minor Delay
+J00641,2026-08-18,Central,Slow,CSMT,Dombivli,46.5,09:26,09:33,7,2640.0,Peak,Heavy Rain,Delayed
+J00161,2026-07-11,Western,Fast,Bandra,Virar,48.9,18:14,18:16,2,2023.0,Peak,Clear,On-Time/Minor Delay
+J00464,2026-08-08,Central,Slow,CSMT,Dombivli,47.3,13:48,13:50,2,1645.0,Non-Peak,Clear,On-Time/Minor Delay
+J00330,2026-09-18,Central,Slow,CSMT,Kalyan,53.8,17:20,17:22,2,2262.0,Peak,Clear,On-Time/Minor Delay
+J00078,2026-10-01,Western,Slow,Borivali,Virar,19.7,20:34,20:36,2,2019.0,Peak,Clear,On-Time/Minor Delay
+J00575,2026-08-30,Western,Slow,Churchgate,Borivali,33.1,10:26,10:26,0,549.0,Non-Peak,Clear,On-Time/Minor Delay
+J00052,2026-08-31,Central,Fast,CSMT,Kalyan,51.9,14:24,14:26,2,1071.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00715,2026-10-02,Western,Fast,Andheri,Borivali,12.8,21:16,21:16,0,1486.0,Non-Peak,Clear,On-Time/Minor Delay
+J00574,2026-08-19,Harbour,Slow,Andheri,Panvel,33.0,16:08,16:09,1,,Non-Peak,Clear,On-Time/Minor Delay
+J00805,2026-09-14,Western,Slow,Churchgate,Virar,61.8,18:44,18:47,3,1674.0,Peak,Clear,On-Time/Minor Delay
+J00467,2026-09-28,Central,Slow,Thane,Kalyan,21.3,17:02,17:04,2,1953.0,Peak,Cloudy,On-Time/Minor Delay
+J00439,2026-07-08,Harbour,Fast,CSMT,Panvel,50.1,20:40,20:43,3,1681.0,Peak,Clear,On-Time/Minor Delay
+J00182,2026-09-21,Harbour,Slow,CSMT,Panvel,49.3,12:58,13:03,5,1698.0,Non-Peak,Clear,Delayed
+J00602,2026-08-12,Harbour,Slow,CSMT,Panvel,50.6,08:16,08:19,3,1551.0,Peak,Light Rain,On-Time/Minor Delay
+J00550,2026-09-16,Western,Fast,Churchgate,Virar,62.4,05:34,05:36,2,727.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00163,2026-08-21,Central,Slow,CSMT,Thane,31.8,21:30,21:31,1,2096.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00726,2026-08-30,Harbour,Fast,CSMT,Vashi,24.4,20:32,20:34,2,2127.0,Peak,Cloudy,On-Time/Minor Delay
+J00103,2026-08-26,Western,Slow,Bandra,Virar,48.9,15:04,15:04,0,824.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00071,2026-10-09,Harbour,Slow,CSMT,Vashi,23.1,09:54,09:58,4,3577.0,Peak,Light Rain,On-Time/Minor Delay
+J00196,2026-07-27,Harbour,Slow,Vashi,Panvel,24.1,16:52,16:59,7,839.0,Non-Peak,Clear,Delayed
+J00371,2026-08-07,Harbour,Slow,Andheri,Panvel,31.0,07:42,07:43,1,,Peak,Clear,On-Time/Minor Delay
+J00042,2026-07-08,Western,Slow,Bandra,Virar,48.2,20:06,20:11,5,3264.0,Peak,Cloudy,Delayed
+J00349,2026-09-29,Western,Fast,Bandra,Virar,48.2,09:00,09:02,2,1791.0,Peak,Clear,On-Time/Minor Delay
+J00529,2026-08-25,Central,Slow,Dadar,Thane,25.4,09:36,09:37,1,1974.0,Peak,Light Rain,On-Time/Minor Delay
+J00656,2026-08-05,Harbour,Slow,Bandra,Panvel,37.5,10:54,10:56,2,1379.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00345,2026-09-22,Western,Fast,Churchgate,Borivali,34.7,10:46,10:50,4,609.0,Non-Peak,Clear,On-Time/Minor Delay
+J00796,2026-09-24,Central,Fast,CSMT,Kalyan,55.5,22:28,22:28,0,1972.0,Non-Peak,Clear,On-Time/Minor Delay
+J00236,2026-07-03,Harbour,Fast,Andheri,Kalyan ,32.1,08:02,08:05,3,1912.0,Peak,Cloudy,On-Time/Minor Delay
+J00151,2026-09-17,Central line,Slow,Andheri,Panvel,30.9,19:08,19:11,3,2067.0,Peak,Clear,On-Time/Minor Delay
+J00061,2026-10-04,Central,Slow,CSMT,Thane,32.8,21:00,21:02,2,1488.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00564,2026-10-08,Central,Slow,CSMT,Kalyan,54.8,08:22,08:23,1,2076.0,Peak,Cloudy,On-Time/Minor Delay
+J00852,2026-10-01,Central,Fast,CSMT,Dombivli,46.5,14:34,14:35,1,1241.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00786,2026-07-27,Western,Slow,Borivali,Virar,19.7,20:18,20:24,6,2256.0,Peak,Light Rain,Delayed
+J00512,2026-08-30,Central,Fast,Dadar,Thane,25.6,19:50,19:52,2,1822.0,Peak,Clear,On-Time/Minor Delay
+J00129,2026-09-18,Central,Slow,Thane,Kalyan,20.5,17:56,18:01,5,2164.0,Peak,Clear,Delayed
+J00761,2026-09-17,Western,Fast,Churchgate,Borivali,34.4,20:54,20:58,4,2334.0,Peak,Clear,On-Time/Minor Delay
+J00825,2026-07-15,Western,Slow,Andheri,Borivali,12.4,18:20,18:25,5,2128.0,Peak,Clear,Delayed
+J00820,2026-07-01,Western,Slow,Andheri,Borivali,12.1,18:20,18:22,2,2686.0,Peak,Cloudy,On-Time/Minor Delay
+J00794,2026-08-17,Central,Slow,Dadar,Thane,25.8,19:44,19:45,1,1982.0,Peak,Clear,On-Time/Minor Delay
+J00494,2026-07-28,Central,Fast,CSMT,Kalyan,55.7,10:34,10:36,2,1586.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00364,2026-09-20,Central,Slow,Kurla,Kalyan,40.5,19:00,19:07,7,2405.0,Peak,Light Rain,Delayed
+J00019,2026-08-15,Western,Slow,Andheri,Borivali,12.9,18:22,18:24,2,2255.0,Peak,Clear,On-Time/Minor Delay
+J00532,2026-09-02,Western,Slow,Bandra,Virar,47.2,09:50,09:52,2,2122.0,Peak,Cloudy,On-Time/Minor Delay
+J00174,2026-07-15,Western,Slow,Churchgate,Virar,58.3,08:46,08:48,2,2371.0,Peak,Cloudy,On-Time/Minor Delay
+J00781,2026-10-09,Western,Fast,Borivali,Virar,19.9,21:28,21:28,0,1234.0,Non-Peak,Clear,On-Time/Minor Delay
+J00877,2026-08-27,Western,Slow,Bandra,Virar,46.7,10:12,10:13,1,1282.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00488,2026-08-29,Western,Slow,Bandra,Virar,48.7,16:10,16:11,1,1743.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00420,2026-10-03,Harbour,Slow,CSMT,Panvel,50.1,18:32,18:34,2,2767.0,Peak,Cloudy,On-Time/Minor Delay
+J00404,2026-07-23,Central,Slow,CSMT,Thane,33.5,12:44,12:45,1,1877.0,Non-Peak,Clear,On-Time/Minor Delay
+J00448,2026-08-24,Western,Slow,Bandra,Virar,49.0,11:10,11:10,0,1673.0,Non-Peak,Clear,On-Time/Minor Delay
+J00608,2026-08-14,Central,Fast,CSMT,Thane,34.3,15:56,15:56,0,968.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00767,2026-09-01,Harbour,Slow,Vashi,Panvel,25.9,08:48,08:53,5,2433.0,Peak,Cloudy,Delayed
+J00657,2026-08-27,Western,Slow,Churchgate,Borivali,35.1,09:00,09:02,2,1663.0,Peak,Clear,On-Time/Minor Delay
+J00461,2026-09-12,Western,Slow,Churchgate,Borivali,33.7,21:00,21:03,3,1668.0,Non-Peak,Clear,On-Time/Minor Delay
+J00219,2026-09-16,Harbour,Fast,CSMT,Panvel,49.4,15:32,15:34,2,274.0,Non-Peak,Clear,On-Time/Minor Delay
+J00649,2026-07-26,Central,Slow,Thane,Kalyan,20.8,10:00,10:01,1,945.0,Non-Peak,Clear,On-Time/Minor Delay
+J00127,2026-07-23,Central,Slow,Thane,Kalyan,20.3,13:02,13:04,2,,Non-Peak,Clear,On-Time/Minor Delay
+J00569,2026-10-06,Central,Fast,Thane,Kalyan,20.9,07:18,26:15,3,1813.0,Peak,Light Rain,On-Time/Minor Delay
+J00807,2026-08-15,Harbour,Slow,Vashi,Panvel,24.4,17:40,17:44,4,1805.0,Peak,Clear,On-Time/Minor Delay
+J00745,2026-09-06,Western,Fast,Churchgate,Borivali,34.1,11:20,11:20,0,1879.0,Non-Peak,Clear,On-Time/Minor Delay
+J00723,2026-08-14,Western,Slow,Churchgate,Virar,59.1,07:52,07:53,1,2804.0,Peak,Cloudy,On-Time/Minor Delay
+J00001,2026-10-01,Western,Fast,Churchgate,Virar,59.4,12:36,12:37,1,931.0,Non-Peak,Clear,On-Time/Minor Delay
+J00571,2026-09-27,Western,Slow,Dadar,Borivali,22.4,06:58,07:00,2,1267.0,Non-Peak,Clear,On-Time/Minor Delay
+J00611,2026-08-12,Western,Fast,Churchgate,Borivali,35.0,11:46,11:46,0,925.0,Non-Peak,Clear,On-Time/Minor Delay
+J00789,2026-07-13,Western,Fast,Borivali,Virar,19.1,18:04,18:05,1,1444.0,Peak,Clear,On-Time/Minor Delay
+J00232,2026-07-30,Central,Fast,Dadar,Thane,24.9,14:48,14:49,1,833.0,Non-Peak,Clear,On-Time/Minor Delay
+J00457,2026-08-10,Central,Fast train,Thane,Kalyan,21.3,09:02,09:05,3,1728.0,Peak,Clear,On-Time/Minor Delay
+J00359,2026-09-05,Western,Slow,Andheri,Borivali,12.2,18:40,18:44,4,1671.0,Peak,Cloudy,On-Time/Minor Delay
+J00659,2026-08-02,Western,Fast,Bandra,Virar,47.1,19:46,19:48,2,2001.0,Peak,Clear,On-Time/Minor Delay
+J00267,2026-08-04,Western,Fast,Churchgate,Virar,60.3,07:02,07:04,2,1533.0,Peak,Light Rain,On-Time/Minor Delay
+J00289,2026-08-28,Western,Slow,Andheri,Borivali,12.2,19:04,19:08,4,2120.0,Peak,Clear,On-Time/Minor Delay
+J00259,2026-10-05,Harbour,Fast,Andheri,Panvel,32.4,13:56,13:58,2,492.0,Non-Peak,Clear,On-Time/Minor Delay
+J00415,2026-07-16,Central,Fast,Thane,Kalyan,20.8,19:36,19:40,4,1762.0,Peak,Heavy Rain,On-Time/Minor Delay
+J00418,2026-09-02,Western,Slow,Andheri,Borivali,12.5,13:22,13:22,0,2066.0,Non-Peak,Clear,On-Time/Minor Delay
+J00471,2026-08-30,Western,Fast,Churchgate,Borivali,34.9,21:48,21:53,5,1929.0,Non-Peak,Heavy Rain,Delayed
+J00614,2026-09-08,Western,Slow,Dadar,Borivali,21.6,21:44,21:44,0,1716.0,Non-Peak,Clear,On-Time/Minor Delay
+J00510,2026-07-29,Harbour,Slow,Vashi,Panvel,25.9,11:52,11:53,1,494.0,Non-Peak,Clear,On-Time/Minor Delay
+J00869,2026-08-25,Harbour,Fast,CSMT,Vashi,24.3,19:14,19:19,5,1808.0,Peak,Cloudy,Delayed
+J00297,2026-08-01,Western,Slow,Dadar,Borivali,21.3,13:50,13:50,0,1365.0,Non-Peak,Clear,On-Time/Minor Delay
+J00771,2026-07-08,Harbour,Slow,CSMT,Panvel,48.6,09:12,09:18,6,2519.0,Peak,Heavy Rain,Delayed
+J00668,2026-09-19,Harbour,Slow,CSMT,Vashi,23.8,19:00,19:01,1,2753.0,Peak,heavy rain,On-Time/Minor Delay
+J00716,2026-08-02,Harbour,Slow,Vashi,Panvel,24.9,07:38,07:44,6,1620.0,Peak,Clear,Delayed
+J00177,2026-07-06,Central,Slow,Kurla,Kalyan,38.0,15:22,15:25,3,1544.0,Non-Peak,Heavy Rain,On-Time/Minor Delay
+J00333,2026-09-19,Western,Fast,Churchgate,Virar,60.2,06:18,06:22,4,1051.0,Non-Peak,Light Rain,On-Time/Minor Delay
+J00298,2026-08-03,Western,Slow,Bandra,Virar,46.9,15:36,15:38,2,3438.0,Non-Peak,Clear,On-Time/Minor Delay
+J00599,2026-10-03,Western,Slow,Borivali,Virar,19.9,08:58,09:03,5,2292.0,Peak,Clear,Delayed
+J00307,2026-09-11,Harbour,Slow,Andheri,Panvel,-4.5,08:50,08:58,8,3317.0,Peak,Light Rain,Delayed
+J00741,2026-08-30,Western,Fast,Bandra,Virar,47.1,17:02,17:04,2,3149.0,Peak,Clear,On-Time/Minor Delay
+J00123,2026-09-30,Central,Fast,CSMT,Thane,33.9,16:26,16:28,2,1108.0,Non-Peak,Clear,On-Time/Minor Delay
+J00242,2026-08-06,Harbour,Fast,CSMT,Vashi,23.8,14:16,14:22,6,1479.0,Non-Peak,Clear,Delayed
+J00795,2026-07-04,Central,Slow,CSMT,Thane,34.3,18:36,18:37,1,2314.0,Peak,Cloudy,On-Time/Minor Delay
+J00167,2026-07-26,Central,Slow,CSMT,Thane,33.4,05:06,05:07,1,739.0,Non-Peak,Clear,On-Time/Minor Delay
+J00750,2026-07-19,Western,Slow,Borivali,Virar,19.0,08:44,08:46,2,2273.0,Peak,Clear,On-Time/Minor Delay
+J00829,2026-08-02,Harbour,Slow,Vashi,Panvel,24.0,16:32,16:37,-1,1790.0,Non-Peak,Cloudy,Delayed
+J00051,2026-09-08,Western,Fast,Churchgate,Borivali,34.7,18:32,18:36,4,1891.0,Peak,Clear,On-Time/Minor Delay
+J00815,2026-07-22,Western,Slow,Churchgate,Virar,58.8,11:34,11:37,3,2039.0,Non-Peak,Clear,On-Time/Minor Delay
+J00062,2026-07-05,Harbour,Slow,CSMT,Vashi,24.4,21:28,21:29,1,1751.0,Non-Peak,Clear,On-Time/Minor Delay
+J00605,2026-09-18,Western,Slow,Andheri,Borivali,12.5,06:50,06:53,3,2367.0,Non-Peak,Cloudy,On-Time/Minor Delay
+J00878,2026-10-07,Western,Slow,Churchgate,Virar,60.5,18:02,18:08,6,2975.0,Peak,Clear,Delayed
+J00697,2026-08-03,Western,Slow,Bandra,Virar,48.1,18:26,18:30,4,1855.0,Peak,Clear,On-Time/Minor Delay
+J00680,2026-07-01,Western,Fast,,Virar,46.6,08:14,08:14,0,1790.0,Peak,Light Rain,On-Time/Minor Delay
+J00938,2026-08-03,Western,Slow,Borivali,Virar,19.6,09:42,09:45,3,2047.0,Peak,Clear,On-Time/Minor Delay
+J00416,2026-07-09,Central,Slow,CSMT,Thane,31.9,20:50,20:54,4,2220.0,Peak,Cloudy,On-Time/Minor Delay
+J00873,2026-09-17,Central,Fast,CSMT,Dombivli,47.4,20:08,20:13,5,2535.0,Peak,Cloudy,Delayed
